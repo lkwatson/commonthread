@@ -1,5 +1,7 @@
 body {
 	background-color: #e1e1e1;
+	
+	font-size: 1.6em;
 }
 
 .navbar-top {
@@ -7,12 +9,27 @@ body {
 }
 
 .intro {
-	padding-top: 100px;
+	padding-top: 70px;
 }
 
 .intro-content { 
 	background-color: #f8f8f8;
 	padding: 20px;
+}
+
+.break {
+	margin: 15px;
+	height: 1px;
+	background-color: #78797b;
+	content: '';
+}
+
+.about-text {
+	padding: 0px 20px 10px 20px;
+}
+
+.about-use-credits {
+	padding: 0px 20px 10px 20px;
 }
 
 /* Bootstrap Custom Navbar coloring */
