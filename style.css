@@ -79,7 +79,7 @@ img.bg {
     margin-left: -500px;
   }
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 700px) {
   img.bg {
     left: 50%;
     margin-left: -400px;
