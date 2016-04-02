@@ -22,11 +22,27 @@ body {
 	padding: 20px;
 }
 
+.intro-content-nopad {
+	background-color: #f8f8f8;
+	padding: 0;
+}
+
 .break {
 	margin: 15px;
 	height: 1px;
 	background-color: #78797b;
 	content: '';
+}
+
+.episode-list-heading {
+	padding:20px;
+}
+
+.episode-list-container {
+	margin: 0;
+	padding: 10px;
+	border-bottom: 1px solid #aeaeae;
+	border-top: 1px solid #aeaeae;
 }
 
 .about-text {
