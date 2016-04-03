@@ -102,11 +102,14 @@
 							<div id="progress-text"></div>
 <!-- 							<div id="audio-progress-bar"><span id="audio-progress"></span></div> -->
 							<input id="audio-progress" min="0" max="100" step="0.01" value="0" type="range" onchange="updateTime()" oninput="updateTime()"/>
-							<input id="volume-slider" min="0" max="1" step="0.0001" value="1" type="range" onchange="setVolume()" oninput="setVolume()"/>
+							<input id="volume-slider" min="0" max="1" step="0.0001" value="1" type="range" onchange="setVolume()" oninput="setVolume()" style="display:none;"/>
 						</div>
 						<script>
 							var audio = document.getElementById("episode-player");
 						  audio.controls = false;
+						  
+						  var controls = document.getElementById("controls");
+						  controls.style.display = 'inline';
 						  
 						  audio.currentTime = 0.01;
 						  
@@ -125,9 +128,6 @@
 							if(urlSetTime) {
 								audio.currentTime = urlSetTime;
 							}
-						  
-						  var controls = document.getElementById("controls");
-						  controls.style.display = 'inline';
 						  						  
 						  function togglePlayPause() {
 							  var playpause = document.getElementById("play-pause");
@@ -140,6 +140,15 @@
 							    playpause.innerHTML = "<i class='fa fa-play'></i>";
 							    audio.pause();
 							  }
+							}
+							
+							function showHideVolume() {
+								var volumeSlider = document.getElementById("volume-slider");
+								if(volumeSlider.style.display === 'inline') {
+									volumeSlider.style.display = 'none';
+								}else{
+									volumeSlider.style.display = 'inline';
+								}
 							}
 							
 							function setVolume() {
@@ -201,7 +210,8 @@
 					<br/>
 					<p>Share this on:</p>
 					<a href='#' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
-
+					<br/>
+					<p>Photo by <a href="/about#credits">Ron Cogswell</a>
 				</div>
 			</div>
 		</div>

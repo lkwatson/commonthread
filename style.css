@@ -67,8 +67,8 @@ img.bg {
   min-width: 1000px;
 	
   /* Set up proportionate scaling */
-  width: auto;
-  height: 100%;
+  width: 100%;
+  height: auto;
 	
   /* Set up positioning */
   position: fixed;
