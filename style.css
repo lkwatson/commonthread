@@ -27,6 +27,10 @@ body {
 	padding: 20px;
 }
 
+.intro-content img {
+	width: 100%;
+}
+
 .intro-content-nopad {
 	background-color: #f8f8f8;
 	padding: 0;
@@ -85,20 +89,6 @@ img.bg {
     margin-left: -400px;
   }
 }
-
-/*
-#audio-progress-bar { 
-  border:1px solid #aaa; 
-  color:#fff; 
-  width:295px; 
-  height:20px;
-}
-#audio-progress {
-  background-color:#ff0000;
-  height:20px;
-  display:inline-block;
-}
-*/
 
 .about-text {
 	padding: 0px 20px 10px 20px;
