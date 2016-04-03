@@ -50,15 +50,15 @@
 	
 <!-- 	For Facebook share button -->
 
-	<meta property="og:url"           content="https://bucommonthread.com/index.html" />
+	<meta property="og:url"           content="https://bucommonthread.com/mlk.html" />
 	<meta property="og:type"          content="website" />
-	<meta property="og:title"         content="The Common Thread Podcast at Boston University" />
+	<meta property="og:title"         content="This episode of The Common Thread Podcast delves into the lesser known, later years of Martin Luther King's life as a proponent for economic change." />
 	<meta property="og:description"   content="We are a team of 6 BU students from the Howard Thurman Center who seek to discover and discuss topics of importance that relate to our community." />
-	<meta property="og:image"         content="http://www.your-domain.com/path/image.jpg" />
+	<meta property="og:image"         content="https://bucommonthread.com/img/mlk-lg.jpg" />
 	
 </head>
 <body>
-	
+
 	<div class="container navbar-top">
 		<nav class="navbar navbar-default navbar-fixed-top">  
 			<div class="container-fluid"> 
@@ -186,8 +186,22 @@
 									playpause.title = "play";
 								  playpause.innerHTML = "<i class='fa fa-play'></i>"; 
 								}, false);
+								
+// 						SOCIAL SHARING SECTION
+
+						function onClickFBShare() {
+							if(urlSetTime) {
+								var fbpopup = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+							}else{
+								var fbpopup = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+							}
+						}
 						</script>
 					</div>
+					<br/>
+					
+					<a href='#' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
+
 				</div>
 			</div>
 		</div>
