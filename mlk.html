@@ -95,7 +95,9 @@
 					<p>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson</p>
 					
 					<div class="audio-player">
-						<audio src="audio/MLK.mp3" id="episode-player" controls preload="auto"></audio>
+						<audio src="audio/MLK.mp3" id="episode-player" controls preload="auto">
+							Sorry, the audio player doesn't seem to be working. Try using a different browser, or download the episode.
+						</audio>
 						<div id="controls" style="display:none;">
 							<button id="play-pause" title="play" onclick="togglePlayPause()"><i class='fa fa-play'></i></button>
 							<button id="volume-button" title="volume" onclick="showHideVolume()"><i class='fa fa-volume-up'></i></button>
@@ -114,6 +116,16 @@
 						  // controls.style.display = 'inline';
 						  
 						  audio.currentTime = 0.01;
+						  
+						  audio.addEventListener('play', foo) {
+						  	ga('send', 'event', 'Play Episode', 'played');
+						  	console.log("GA event sent: Played");
+						  }
+						  
+						  audio.addEventListener('ended', foo) {
+						  	ga('send', 'event', 'Play Episode', 'ended');
+						  	console.log("GA event sent: Ended");
+						  }
 						  
 						  function getParameterByName(name, url) { //Thanks to http://stackoverflow.com/a/901144/1224973
 							  if (!url) url = window.location.href;
