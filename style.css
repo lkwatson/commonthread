@@ -16,6 +16,15 @@ body {
 	font-size: 2.0em;
 }
 
+.footer {
+	margin-left:25%;
+	width:50%;
+	padding: 5px;
+	border-top: 1px solid #828282;
+	text-align: center;
+	color: #828282;
+}
+
 .div-linked p {
 	color: black;
 }
@@ -25,7 +34,8 @@ body {
 }
 
 .intro {
-	padding-top: 70px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .intro-content { 
