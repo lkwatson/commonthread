@@ -105,11 +105,13 @@
 							<input id="volume-slider" min="0" max="1" step="0.0001" value="1" type="range" onchange="setVolume()" oninput="setVolume()" style="display:none;"/>
 						</div>
 						<script>
+// 							IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// 							Uncomment audio.controls and controls.style to use custom audio controlls
 							var audio = document.getElementById("episode-player");
-						  audio.controls = false;
+						  // audio.controls = false;
 						  
 						  var controls = document.getElementById("controls");
-						  controls.style.display = 'inline';
+						  // controls.style.display = 'inline';
 						  
 						  audio.currentTime = 0.01;
 						  
@@ -207,13 +209,13 @@
 						}
 						</script>
 					</div>
+					<p>Trouble listening? Can't see the audio player? Click <a href="audio/MLK.mp3">here</a></p>
 					<br/>
-					<p>Trouble listening? Click <a href="audio/MLK.mp3">here</a></p>
 					<p>Download this podcast <a href="audio/MLK.mp3" download>here</a></p>
 					<p>iTunes link: Coming soon</p>
 					<br/>
 					<p>Share this on:</p>
-					<a href='#' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
+					<a href='javascript:;' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
 					<a href='https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk'><i class='fa fa-twitter fa-2x'></i></a>
 					<!-- <a href="https://twitter.com/share" class="twitter-share-button" data-text="Timestamp:" data-hashtags="CommonThreadBU">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> -->
 					<br/>
@@ -240,6 +242,7 @@
 					<p>This form is secure, and we won't share your email with anyone</p>
 					<br/>
 					<p>Photo by <a href="/about#credits">Ron Cogswell</a>
+					<p>Audio and content Copyright 2016, Boston University Common Thread Podcast</p>
 				</div>
 			</div>
 		</div>
