@@ -117,15 +117,15 @@
 						  
 						  audio.currentTime = 0.01;
 						  
-						  audio.addEventListener('play', foo) {
+						  audio.addEventListener('play', function() {
 						  	ga('send', 'event', 'Play Episode', 'played');
 						  	console.log("GA event sent: Played");
-						  }
+						  });
 						  
-						  audio.addEventListener('ended', foo) {
+						  audio.addEventListener('ended', function() {
 						  	ga('send', 'event', 'Play Episode', 'ended');
 						  	console.log("GA event sent: Ended");
-						  }
+						  });
 						  
 						  function getParameterByName(name, url) { //Thanks to http://stackoverflow.com/a/901144/1224973
 							  if (!url) url = window.location.href;
