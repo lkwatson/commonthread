@@ -123,7 +123,7 @@
 						  });
 						  
 						  audio.addEventListener('ended', function() {
-						  	ga('send', 'event', 'Play Episode', 'ended');
+						  	ga('send', 'event', 'Play Entire Episode', 'ended');
 						  	console.log("GA event sent: Ended");
 						  });
 						  
@@ -221,15 +221,14 @@
 						}
 						</script>
 					</div>
-					<p>Trouble listening? Can't see the audio player? Click <a href="audio/MLK.mp3">here</a></p>
+					<p>Trouble listening? Can't see the audio player? Click <a href="audio/MLK.mp3" onclick="ga('send', 'event', 'View Source Audio', 'viewed')">here</a></p>
 					<br/>
-					<p>Download this podcast <a href="audio/MLK.mp3" download>here</a></p>
+					<p>Download this podcast <a href="audio/MLK.mp3" onclick="ga('send', 'event', 'Download audio', 'downloaded')" download>here</a></p>
 					<p>iTunes link: Coming soon</p>
 					<br/>
 					<p>Share this on:</p>
 					<a href='javascript:;' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
 					<a href='https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk'><i class='fa fa-twitter fa-2x'></i></a>
-					<!-- <a href="https://twitter.com/share" class="twitter-share-button" data-text="Timestamp:" data-hashtags="CommonThreadBU">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> -->
 					<br/>
 					<!-- Begin MailChimp Signup Form -->
 					<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
