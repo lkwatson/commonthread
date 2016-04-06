@@ -7,7 +7,7 @@
         <webMaster>info@bucommonthread.com (Contact Us)</webMaster>
         <managingEditor>info@bucommonthread.com (Contact Us)</managingEditor>
         <image>
-            <url>https://bucommonthread.com/img/CT-SQ.png</url>
+            <url>http://bucommonthread.com/img/CT-SQ.png</url>
             <title>The Common Thread Podcast</title>
             <link>https://bucommonthread.com</link>
         </image>
@@ -34,7 +34,7 @@
             <description>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</description>
             <itunes:summary>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</itunes:summary>
             <itunes:subtitle>MLK is tragically misrepresented in history. Listen to hear about his last, radical years.</itunes:subtitle>
-            <enclosure url="https://bucommonthread.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
+            <enclosure url="http://bucommonthread.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
             <guid>https://bucommonthread.com/audio/MLK.mp3</guid>
             <itunes:duration>0:52:59</itunes:duration>
             <pubDate>Mon, 04 Apr 2016 00:00:00 EST</pubDate>
