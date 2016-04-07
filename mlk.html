@@ -50,33 +50,40 @@
 	
 <!-- 	For Google Structured Data -->
 
-<!--
-	<div itemscope itemtype="http://schema.org/NewsArticle">
-	  <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://google.com/article" content=""/>
-	  <h2 itemprop="headline">Martin Luther King - His Later Years</h2>
-	  <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
-	    By <span itemprop="name">The Common Thread Podcast</span>
-	  </h3>
-	  <span itemprop="description">MLK is tragically misrepresented in history. Listen to hear about his last, radical years.</span>
-	  <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-	    <img src="https://bucommonthread.com/img/CT-Head.png"/>
-	    <meta itemprop="url" content="https://bucommonthread.com/img/CT-Head.png">
-	    <meta itemprop="width" content="1371">
-	    <meta itemprop="height" content="600">
-	  </div>
-	  <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-	    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-	      <img src="https://bucommonthread.com/img/CT-SQ.png"/>
-	      <meta itemprop="url" content="https://bucommonthread.com/img/CT-SQ.png">
-	      <meta itemprop="width" content="2999">
-	      <meta itemprop="height" content="2999">
-	    </div>
-	    <meta itemprop="name" content="Google">
-	  </div>
-	  <meta itemprop="datePublished" content="2016-04-04T08:00:00+04:00"/>
-	  <meta itemprop="dateModified" content="2016-04-04T08:00:00+04:00"/>
-	</div>
--->
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "NewsArticle",
+	  "mainEntityOfPage":{
+	    "@type":"WebPage",
+	    "@id":"https://google.com/article"
+	  },
+	  "headline": "Martin Luther King - His Later Years",
+	  "image": {
+	    "@type": "ImageObject",
+	    "url": "https://bucommonthread.com/img/CT-SQ.png"",
+	    "height": 2999,
+	    "width": 2999
+	  },
+	  "datePublished": "2016-04-04T08:00:00+04:00",
+	  "dateModified": "2016-04-04T08:00:00+04:00",
+	  "author": {
+	    "@type": "Person",
+	    "name": "The Common Thread Podcast"
+	  },
+	   "publisher": {
+	    "@type": "Organization",
+	    "name": "Boston University",
+	    "logo": {
+	      "@type": "ImageObject",
+	      "url": "https://bucommonthread.com/img/CT-Head.png",
+	      "width": 1371,
+	      "height": 600
+	    }
+	  },
+	  "description": "MLK is tragically misrepresented in history. Listen to hear about his last, radical years."
+	}
+	</script>
 	
 <!-- 	For Facebook share button -->
 
