@@ -116,6 +116,12 @@ img.bg {
 	padding: 0px 20px 10px 20px;
 }
 
+/* Mailchimp formatting */
+
+#mc_embed_signup form {
+	padding: 10px 0 10px 0;
+}
+
 /* Bootstrap Custom Navbar coloring */
 
 .navbar-default {
