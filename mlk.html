@@ -132,6 +132,7 @@
 					<p>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson</p>
 					
 					<div class="audio-player">
+						<h3>Listen</h3>
 						<audio src="audio/MLK.mp3" id="episode-player" controls preload="auto">
 							Sorry, the audio player doesn't seem to be working. Try using a different browser, or download the episode.
 						</audio>
@@ -178,6 +179,7 @@
 							
 							if(urlSetTime) {
 								audio.currentTime = urlSetTime;
+								urlSetTime = null; //Clear this when we parse it so we can use it for sharing.
 							}
 						  						  
 						  function togglePlayPause() {
@@ -240,6 +242,7 @@
 							}
 							
 							audio.addEventListener("timeupdate", updateProgress, false);
+							audio.addEventListener("timeupdate", urlSetTimeSet, false);
 							audio.addEventListener("ended", 
 								function() { 
 									var playpause = document.getElementById("play-pause");
@@ -249,6 +252,15 @@
 								
 // 						SOCIAL SHARING SECTION
 
+						function urlSetTimeSet() {
+							var useTimeCheck = document.getElementById("include-timestamp");
+							if(useTimeCheck.checked) {
+								urlSetTime = Math.floor(audio.currentTime);
+							}else{
+								urlSetTime = null;
+							}	
+						}
+
 						function onClickFBShare() {
 							if(urlSetTime) {
 								var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
@@ -256,16 +268,65 @@
 								var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
 							}
 						}
+						
+						function onClickTwShare() {
+							if(urlSetTime) {
+								var tw = window.open("https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+							}else{
+								var tw = window.open("https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+							}
+						}
+						
+						function onClickLinkShare() {
+							var linkBox = document.getElementById("share-link-box");
+							var linkCopy = document.getElementById("link-copy-button");
+							linkBox.style.display = "inline";
+							linkCopy.style.display = "inline";
+							
+							if(urlSetTime) {
+								linkBox.value = 'bucommonthread.com/mlk?time='+urlSetTime;
+							}else{
+								linkBox.value = 'bucommonthread.com/mlk';
+							}
+						}
+						
+						function timestampCheckChanged() {
+							urlSetTimeSet();
+							onClickLinkShare();
+						}
+						
+						var x = 0;
+						
+						function onClickCopyLink() {
+							x++;
+							var linkBox = document.getElementById("share-link-box");
+							var linkCopy = document.getElementById("link-copy-button");
+							linkBox.select();
+							document.execCommand('copy');
+							
+							if(linkCopy.innerHTML === ' Copy to Clipboard') {
+								linkCopy.innerHTML = 'Copied!';
+							}else{
+								linkCopy.innerHTML = 'Copied! ' + x + ' times';
+							}
+						}
 						</script>
 					</div>
-					<p>Trouble listening? Can't see the audio player? Click <a href="audio/MLK.mp3" onclick="ga('send', 'event', 'View Source Audio', 'viewed')">here</a></p>
+					<p>Trouble listening? Click <a href="audio/MLK.mp3" onclick="ga('send', 'event', 'View Source Audio', 'viewed')">here</a></p>
 					<p>Download this podcast <a href="audio/MLK.mp3" onclick="ga('send', 'event', 'Download audio', 'downloaded')" download>here  <i class="fa fa-arrow-down" alt=">"></i></a></p>
 					<p>Listen on <a href="https://itunes.apple.com/us/podcast/the-common-thread-podcast/id1100917945" onclick="ga('send', 'event', 'Open iTunes', 'opened')">iTunes <i class="fa fa-arrow-right" alt=">"></i></a></p>
-					<br/>
-					<p>Share this on:</p>
-					<a href='javascript:;' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
-					<a href='https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk'><i class='fa fa-twitter fa-2x'></i></a>
-					<br/>
+					<div class="episode-share-container">
+						<h3>Share</h3>
+						<div class="include-timestamp-container">
+							<input type="checkbox" name="include-timestamp" id="include-timestamp" value="timestamp-checked" onchange="timestampCheckChanged()"> Include current timestamp in shared link<br>
+						</div>
+						<a href='javascript:;' onclick="onClickFBShare()"><i class='fa fa-facebook fa-2x'></i></a>
+						<a href='javascript:;' onclick="onClickTwShare()"><i class='fa fa-twitter fa-2x'></i></a>
+						<a href='javascript:;' onclick="onClickLinkShare()"><i class='fa fa-link fa-2x'></i></a>
+						<input onclick="this.setSelectionRange(0, this.value.length)" type="text" name="link" value="test" class="timestamped-link-box" id="share-link-box" style="display:none; width:260px;">
+						<a href='javascript:;' onclick="onClickCopyLink()" id="link-copy-button" style="display:none;"> Copy to Clipboard</a>
+					</div>
+					<h3>Subscribe</h3>
 					<!-- Begin MailChimp Signup Form -->
 					<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 					<style type="text/css">
@@ -277,16 +338,16 @@
 					<form action="//bucommonthread.us13.list-manage.com/subscribe/post?u=746c441bbc287b457a07c8184&amp;id=bb1693b31d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					    <div id="mc_embed_signup_scroll">
 						<label for="mce-EMAIL">Get an email when we post a new episode!</label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your Email" required>
 					    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 					    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_746c441bbc287b457a07c8184_bb1693b31d" tabindex="-1" value=""></div>
+					    <p><i>This form is secure, and we won't share your email with anyone</i></p>
 					    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 					    </div>
 					</form>
 					</div>
 					
 					<!--End mc_embed_signup-->
-					<p>This form is secure, and we won't share your email with anyone</p>
 					<br/>
 					<p>Photo by <a href="/about#credits">Ron Cogswell</a>
 					<p>Audio and content Copyright 2016, Boston University Common Thread Podcast</p>

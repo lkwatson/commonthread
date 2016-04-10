@@ -119,7 +119,27 @@ img.bg {
 /* Mailchimp formatting */
 
 #mc_embed_signup form {
-	padding: 10px 0 10px 0 !important;
+	padding: 5px 0 10px 0 !important;
+}
+
+/* episode Share links formatting */
+
+.include-timestamp-container {
+	margin: -5px 0 5px 0;
+}
+
+.timestamped-link-box {
+	display: inline;
+	margin: 0px 0px 0px 10px;
+}
+
+.episode-share-container a {
+	display:inline;
+	margin-top: 20px;
+}
+
+.episode-share-container input { 
+	margin-top: 0;
 }
 
 /* Bootstrap Custom Navbar coloring */
