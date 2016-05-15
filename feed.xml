@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <link>https://bucommonthread.com</link>
+        <language>en-us</language>
+        <copyright>&#xA9;2016</copyright>
+        <webMaster>info@bucommonthread.com (Contact Us)</webMaster>
+        <managingEditor>info@bucommonthread.com (Contact Us)</managingEditor>
+        <image>
+            <url>http://bucommonthread.com/img/CT-SQ.jpg</url>
+            <title>The Common Thread Podcast</title>
+            <link>https://bucommonthread.com</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>The Howard Thurman Center</itunes:name>
+            <itunes:email>info@bucommonthread.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Education">
+            <itunes:category text="Higher Education"/>
+        </itunes:category>
+        <itunes:keywords>boston, university, common, thread, podcast, howard, thurman, center, students, student, college</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://bucommonthread.com/img/CT-SQ.png" />
+        <atom:link href="http://bucommonthread.com/feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Wed, 06 Apr 2016 00:00:00 EST</pubDate>
+        <title>The Common Thread Podcast</title>
+        <itunes:author>The Howard Thurman Center</itunes:author>
+        <description>The Common Thread Podcast is recorded and produced by 6 undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</description>
+        <itunes:summary>The Common Thread Podcast is recorded and produced by 6 undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</itunes:summary>
+        <itunes:subtitle>The Common Thread podcast is created by 6 students at Boston University.</itunes:subtitle>
+        <lastBuildDate>Wed, 06 Apr 2016 00:00:00 EST</lastBuildDate>
+        <item>
+            <title>Martin Luther King - His Last Years</title>
+            <description>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</description>
+            <itunes:summary>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</itunes:summary>
+            <itunes:subtitle>MLK is tragically misrepresented in history. Listen to hear about his last, radical years.</itunes:subtitle>
+            <enclosure url="http://bucommonthread.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
+            <guid>https://bucommonthread.com/audio/MLK.mp3</guid>
+            <itunes:duration>0:52:59</itunes:duration>
+            <pubDate>Mon, 04 Apr 2016 00:00:00 EST</pubDate>
+        </item>
+    </channel>
+</rss>
