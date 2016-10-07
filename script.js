@@ -1,5 +1,7 @@
 //AUDIO CONTROLS, OTHER STUFF
 $( document ).ready(function() {
+  
+  var thisPageUrl = window.location.href;
 	
 	plyr.setup('.plyr',{controls:['play-large', 'play', 'progress', 'current-time', 'mute', 'volume'],volume:8,displayDuration:false});
 
@@ -49,17 +51,17 @@ $( document ).ready(function() {
 	
 	onClickFBShare = function() {
 		if(urlSetTime) {
-			var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+			var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://"+thisPageUrl+"?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
 		}else{
-			var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+			var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://"+thisPageUrl, "pop", "width=600, height=600, scrollbars=no");
 		}
 	}
 	
 	onClickTwShare = function() {
 		if(urlSetTime) {
-			var tw = window.open("https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+			var tw = window.open("https://twitter.com/intent/tweet?url="+thisPageUrl+"&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
 		}else{
-			var tw = window.open("https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+			var tw = window.open("https://twitter.com/intent/tweet?url="+thisPageUrl+"&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
 		}
 	}
 	
@@ -70,9 +72,9 @@ $( document ).ready(function() {
 		linkCopy.style.display = "inline";
 		
 		if(urlSetTime) {
-			linkBox.value = 'bucommonthread.com/mlk?time='+urlSetTime;
+			linkBox.value = thisPageUrl+'?time='+urlSetTime;
 		}else{
-			linkBox.value = 'bucommonthread.com/mlk';
+			linkBox.value = thisPageUrl
 		}
 	}
 	
