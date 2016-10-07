@@ -59,9 +59,9 @@ $( document ).ready(function() {
 	
 	onClickTwShare = function() {
 		if(urlSetTime) {
-			var tw = window.open("https://twitter.com/intent/tweet?url="+thisPageUrl+"&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+			var tw = window.open("https://twitter.com/intent/tweet?url="+thisPageUrl+"?time="+urlSetTime+"&text=The%20Common%20Thread%20Podcast", "pop", "width=600, height=600, scrollbars=no");
 		}else{
-			var tw = window.open("https://twitter.com/intent/tweet?url="+thisPageUrl+"&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+			var tw = window.open("https://twitter.com/intent/tweet?url="+thisPageUrl+"&text=The%20Common%20Thread%20Podcast", "pop", "width=600, height=600, scrollbars=no");
 		}
 	}
 	
