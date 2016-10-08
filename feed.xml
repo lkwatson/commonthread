@@ -25,19 +25,32 @@
         <pubDate>Wed, 06 Apr 2016 00:00:00 EST</pubDate>
         <title>The Common Thread Podcast</title>
         <itunes:author>The Howard Thurman Center</itunes:author>
-        <description>The Common Thread Podcast is recorded and produced by 6 undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</description>
-        <itunes:summary>The Common Thread Podcast is recorded and produced by 6 undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</itunes:summary>
-        <itunes:subtitle>The Common Thread podcast is created by 6 students at Boston University.</itunes:subtitle>
+        <description>The Common Thread Podcast is recorded and produced by undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</description>
+        <itunes:summary>The Common Thread Podcast is recorded and produced by undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</itunes:summary>
+        <itunes:subtitle>The Common Thread podcast is created by students at Boston University.</itunes:subtitle>
         <lastBuildDate>Wed, 06 Apr 2016 00:00:00 EST</lastBuildDate>
+        
         <item>
             <title>Martin Luther King - His Last Years</title>
             <description>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</description>
             <itunes:summary>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</itunes:summary>
             <itunes:subtitle>MLK is tragically misrepresented in history. Listen to hear about his last, radical years.</itunes:subtitle>
-            <enclosure url="http://bucommonthread.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
-            <guid>https://bucommonthread.com/audio/MLK.mp3</guid>
+            <enclosure url="http://www.bucommonthread.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/MLK.mp3</guid>
             <itunes:duration>0:52:59</itunes:duration>
             <pubDate>Mon, 04 Apr 2016 00:00:00 EST</pubDate>
         </item>
+        
+        <item>
+            <title>Mental Health on College Campuses - Episode 1</title>
+            <description>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue. At the end of Spring semester 2016, we interviewed several students, as well as the director of Behavioral Medicine at BU, Dr. Carrie Landa. In this episode we interview recent Psychology grad from BU, Emme Parks. She discusses the group she founded, All for One, along with her experience with Behavioral Medicine at BU.</description>
+            <itunes:summary>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue. At the end of Spring semester 2016, we interviewed several students, as well as the director of Behavioral Medicine at BU, Dr. Carrie Landa. In this episode we interview recent Psychology grad from BU, Emme Parks. She discusses the group she founded, All for One, along with her experience with Behavioral Medicine at BU.</itunes:summary>
+            <itunes:subtitle>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/CommonThreadMentalHealthEp1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/CommonThreadMentalHealthEp1.mp3</guid>
+            <itunes:duration>0:52:59</itunes:duration>
+            <pubDate>Fri, 07 Oct 2016 00:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
