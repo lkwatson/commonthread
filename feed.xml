@@ -42,14 +42,25 @@
         </item>
         
         <item>
-            <title>Mental Health on College Campuses - Episode 1</title>
+            <title>Mental Health - Episode 1</title>
             <description>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue. At the end of Spring semester 2016, we interviewed several students, as well as the director of Behavioral Medicine at BU, Dr. Carrie Landa. In this episode we interview recent Psychology grad from BU, Emme Parks. She discusses the group she founded, All for One, along with her experience with Behavioral Medicine at BU.</description>
             <itunes:summary>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue. At the end of Spring semester 2016, we interviewed several students, as well as the director of Behavioral Medicine at BU, Dr. Carrie Landa. In this episode we interview recent Psychology grad from BU, Emme Parks. She discusses the group she founded, All for One, along with her experience with Behavioral Medicine at BU.</itunes:summary>
             <itunes:subtitle>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue.</itunes:subtitle>
             <enclosure url="http://www.bucommonthread.com/audio/CommonThreadMentalHealthEp1.mp3" type="audio/mpeg" length="1" />
             <guid>https://www.bucommonthread.com/audio/CommonThreadMentalHealthEp1.mp3</guid>
-            <itunes:duration>0:52:59</itunes:duration>
+            <itunes:duration>0:40:43</itunes:duration>
             <pubDate>Fri, 07 Oct 2016 00:00:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>Mental Health - Episode 2</title>
+            <description>In this episode we interview a senior psychology major from BU, Sravya Vajram. She discusses the group she founded, SpeakUP, an independent and student-run support group on campus. As well, we discuss the importance of being vulnerable and confiding in peers when dealing with mental health issues. Later in the episode, we also discuss student's general experience with Behavioral Medicine, and ways that communication between students and SHS can improve.</description>
+            <itunes:summary>In this episode we interview a senior psychology major from BU, Sravya Vajram. She discusses the group she founded, SpeakUP, an independent and student-run support group on campus. As well, we discuss the importance of being vulnerable and confiding in peers when dealing with mental health issues. Later in the episode, we also discuss student's general experience with Behavioral Medicine, and ways that communication between students and SHS can improve.</itunes:summary>
+            <itunes:subtitle>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/CommonThreadMentalHealthEp2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/CommonThreadMentalHealthEp2.mp3</guid>
+            <itunes:duration>0:40:43</itunes:duration>
+            <pubDate>Wed, 12 Oct 2016 00:00:00 EST</pubDate>
         </item>
         
     </channel>
