@@ -75,5 +75,28 @@
             <pubDate>Wed, 13 Oct 2016 00:00:00 EST</pubDate>
         </item>
         
+        
+        <item>
+            <title>Dispatch from Calais</title>
+            <description>In this episode of The Common Thread Podcast, we interview BU student Smaranda Tolosano who visited the refugee camp in Calais, France a few days before its shutdown.</description>
+            <itunes:summary>In this episode of The Common Thread Podcast, we interview BU student Smaranda Tolosano who visited the refugee camp in Calais, France a few days before its shutdown.</itunes:summary>
+            <itunes:subtitle>We interview BU student Smaranda Tolosano who visited the refugee camp in Calais, France</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/calais.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/calais.mp3</guid>
+            <itunes:duration>1:07:18</itunes:duration>
+            <pubDate>Thu, 10 Nov 2016 00:00:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>Sanctuary Campus</title>
+            <description>Listen to us talk with Marwa Syed, a student activist who launched a petition late last year to make BU a 'sanctuary campus'. We define actions cities and campuses can take, discuss the potential limitations and delve into the way activism is changing by the day as events unfold. If you want to zoom in on the grassroots in the Trump Era, spin this Thread.</description>
+            <itunes:summary>Listen to us talk with Marwa Syed, a student activist who launched a petition late last year to make BU a 'sanctuary campus'. We define actions cities and campuses can take, discuss the potential limitations and delve into the way activism is changing by the day as events unfold. If you want to zoom in on the grassroots in the Trump Era, spin this Thread.</itunes:summary>
+            <itunes:subtitle>Listen to us talk with Marwa Syed, a student activist who launched a petition late last year to make BU a 'sanctuary campus'.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/sanctuarycampus.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/sanctuarycampus.mp3</guid>
+            <itunes:duration>1:07:18</itunes:duration>
+            <pubDate>Fri, 3 Feb 2017 00:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
