@@ -120,5 +120,16 @@
             <pubDate>Mon, 20 Feb 2017 00:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Summer in Palestine</title>
+            <description>This episode features a conversation with recent Boston University graduate Maya Gazhal, who shares his experiences and perspectives about spending a summer in Palestine as an activist, teacher and IT guy. Given how controversial and charged the topic of the Israeli-Palestinian conflict is, we approached this episode with the intent of understanding why one of our peers would go to Palestine and what he observed while he was there. We hope you find it interesting, as we did. The views articulated in this interview are those of the speaker and are not representative of the opinions of the Common Thread Podcast and Howard Thurman Center.</description>
+            <itunes:summary>This episode features a conversation with recent Boston University graduate Maya Gazhal, who shares his experiences and perspectives about spending a summer in Palestine as an activist, teacher and IT guy. Given how controversial and charged the topic of the Israeli-Palestinian conflict is, we approached this episode with the intent of understanding why one of our peers would go to Palestine and what he observed while he was there. We hope you find it interesting, as we did. The views articulated in this interview are those of the speaker and are not representative of the opinions of the Common Thread Podcast and Howard Thurman Center.</itunes:summary>
+            <itunes:subtitle>This episode features a conversation with recent Boston University graduate Maya Gazhal, who shares his experiences and perspectives about spending a summer in Palestine as an activist, teacher and IT guy.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/palestine.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/palestine.mp3</guid>
+            <itunes:duration>1:24:13</itunes:duration>
+            <pubDate>Wed, 22 Feb 2017 00:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
