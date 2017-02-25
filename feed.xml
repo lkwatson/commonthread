@@ -131,5 +131,16 @@
             <pubDate>Wed, 22 Feb 2017 00:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Oscars Roundtable</title>
+            <description>Four Thread team members, Lucas, Varsha, Elliot and Kobe, sit down with Annalise Lamberty, a BU filmmaker, and Elliot Masters, an actor from Emerson, to break down this year's best picture nominees.</description>
+            <itunes:summary>Four Thread team members, Lucas, Varsha, Elliot and Kobe, sit down with Annalise Lamberty, a BU filmmaker, and Elliot Masters, an actor from Emerson, to break down this year's best picture nominees.</itunes:summary>
+            <itunes:subtitle>The team along with 2 guests break down this year's best picture nominees and more.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/oscars.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/oscars.mp3</guid>
+            <itunes:duration>0:51:55</itunes:duration>
+            <pubDate>Sat, 25 Feb 2017 00:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
