@@ -142,5 +142,16 @@
             <pubDate>Sat, 25 Feb 2017 00:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Conservative Climate Action</title>
+            <description>Recently, the Climate Leadership Council brought together some prominent establishment conservatives––including several former cabinet officials––to release a novel plan to combat climate change: "The Conservative Case for Carbon Dividends". This prompted us to sit down with James Baldwin, a lecturer in the Earth and Environment Department at Boston University. We discuss his ongoing research, explore the range of possible outcomes for the species and analyze this plan in its political context.</description>
+            <itunes:summary>Recently, the Climate Leadership Council brought together some prominent establishment conservatives––including several former cabinet officials––to release a novel plan to combat climate change: "The Conservative Case for Carbon Dividends". This prompted us to sit down with James Baldwin, a lecturer in the Earth and Environment Department at Boston University. We discuss his ongoing research, explore the range of possible outcomes for the species and analyze this plan in its political context.</itunes:summary>
+            <itunes:subtitle>We sit down with James Baldwin, a lecturer in the Earth and Environment Department, and talk about climate action and our future.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/climate-action.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/climate-action.mp3</guid>
+            <itunes:duration>0:40:12</itunes:duration>
+            <pubDate>Mon, 27 Feb 2017 00:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
