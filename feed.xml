@@ -153,5 +153,16 @@
             <pubDate>Mon, 27 Feb 2017 00:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>French Presidential Election</title>
+            <description>On this episode we sit down with two Parisians to discuss the import of the upcoming French presidential election. Spin this Thread to learn about the candidates, the issues, and why this election is a major test for the post-WWII international order.</description>
+            <itunes:summary>On this episode we sit down with two Parisians to discuss the import of the upcoming French presidential election. Spin this Thread to learn about the candidates, the issues, and why this election is a major test for the post-WWII international order..</itunes:summary>
+            <itunes:subtitle>On this episode we sit down with two Parisians to discuss the import of the upcoming French presidential election.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/french-election.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/french-election.mp3</guid>
+            <itunes:duration>0:48:54</itunes:duration>
+            <pubDate>Thur, 23 Mar 2017 00:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
