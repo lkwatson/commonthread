@@ -165,7 +165,7 @@
         </item>
         
         <item>
-            <title>French Presidential Election</title>
+            <title>Urban Planning in NYC</title>
             <description>When considering major issues like housing affordability and gentrification, it is the challenge of the city planner to recognize the fine line between furthering economic development and preserving historically cultural and ethnic communities and institutions. On a trip to New York, fellow team member Varsha got to sit down with Purnima Kapur, the Executive Director of City Planning of New York City, where they discussed the city's current policy addressing these issues as well as other resolutions in resiliency and sustainability. Spin this thread to hear insights from the woman behind the development of one of the world's biggest cities. </description>
             <itunes:summary>When considering major issues like housing affordability and gentrification, it is the challenge of the city planner to recognize the fine line between furthering economic development and preserving historically cultural and ethnic communities and institutions. On a trip to New York, fellow team member Varsha got to sit down with Purnima Kapur, the Executive Director of City Planning of New York City, where they discussed the city's current policy addressing these issues as well as other resolutions in resiliency and sustainability. Spin this thread to hear insights from the woman behind the development of one of the world's biggest cities. </itunes:summary>
             <itunes:subtitle>Team member Varsha talks with the Executive Director of City Planning of New York City.</itunes:subtitle>
@@ -173,6 +173,17 @@
             <guid>https://www.bucommonthread.com/audio/nyc-city-planning.mp3</guid>
             <itunes:duration>0:48:03</itunes:duration>
             <pubDate>Tue, 28 Mar 2017 00:00:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>Beyond Vietnam</title>
+            <description>Today, on the 50th anniversary of MLK’s historic “Beyond Vietnam” address, The Common Thread podcast is re-releasing a segment of our very first episode. On April 4th of last year, we looked at the radicalism of MLK between 1965 and 1968. This segment concerns the context of the "Beyond Vietnam" speech, its content and its fallout. If you’d like to listen to more of our MLK content beyond this segment, you can scroll down in our archive to the very first episode. The segment you hear here is from 22 to 35 minutes in.</description>
+            <itunes:summary>Today, on the 50th anniversary of MLK’s historic “Beyond Vietnam” address, The Common Thread podcast is re-releasing a segment of our very first episode. On April 4th of last year, we looked at the radicalism of MLK between 1965 and 1968. This segment concerns the context of the "Beyond Vietnam" speech, its content and its fallout. If you’d like to listen to more of our MLK content beyond this segment, you can scroll down in our archive to the very first episode. The segment you hear here is from 22 to 35 minutes in.</itunes:summary>
+            <itunes:subtitle>Today, on the 50th anniversary of MLK’s historic Beyond Vietnam address, and The Common Thread podcast is re-releasing a segment of our very first episode on MLK.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/beyond-vietnam.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/beyond-vietnam.mp3</guid>
+            <itunes:duration>0:16:48</itunes:duration>
+            <pubDate>Tue, 04 Apr 2017 00:00:00 EST</pubDate>
         </item>
         
     </channel>
