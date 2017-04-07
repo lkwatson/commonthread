@@ -197,5 +197,16 @@
             <pubDate>Tue, 04 Apr 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>One BU Gala</title>
+            <description>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th. You can find a description and a link to the event on our website, bucommonthread.com</description>
+            <itunes:summary>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th. You can find a description and a link to the event on our website, bucommonthread.com</itunes:summary>
+            <itunes:subtitle>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/one-bu-gala.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/one-bu-gala.mp3</guid>
+            <itunes:duration>1:10:49</itunes:duration>
+            <pubDate>Thu, 06 Apr 2017 12:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
