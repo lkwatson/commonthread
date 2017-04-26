@@ -219,5 +219,27 @@
             <pubDate>Fri, 14 Apr 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Confucianism Series, Episode 1: Boston Confucianism with Dr. Neville</title>
+            <description>Boston Confucianism, which argues for the applicability of Confucian values globally, rather than just in East Asia, is an intellectual movement pioneered by Dr. Robert Neville (former Dean of Marsh Chapel and the School of Theology; currently a professor of Philosophy, Religion and Theology at BU). Here, we discuss the inception of Boston Confucianism and the many potential points of contact between Confucianism and the west.</description>
+            <itunes:summary>Boston Confucianism, which argues for the applicability of Confucian values globally, rather than just in East Asia, is an intellectual movement pioneered by Dr. Robert Neville (former Dean of Marsh Chapel and the School of Theology; currently a professor of Philosophy, Religion and Theology at BU). Here, we discuss the inception of Boston Confucianism and the many potential points of contact between Confucianism and the west.</itunes:summary>
+            <itunes:subtitle>Boston Confucianism, which argues for the applicability of Confucian values globally, rather than just in East Asia, is an intellectual movement pioneered by Dr. Robert Neville: we discuss it here.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/confucianism-ep1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/confucianism-ep1.mp3</guid>
+            <itunes:duration>0:51:33</itunes:duration>
+            <pubDate>Tue, 25 Apr 2017 12:00:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>Confucianism Series, Episode 2: Dr. Bin Song</title>
+            <description>Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </description>
+            <itunes:summary>Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </itunes:summary>
+            <itunes:subtitle>We discuss with Dr. Bin Song the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/confucianism-ep2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/confucianism-ep2.mp3</guid>
+            <itunes:duration>0:33:06</itunes:duration>
+            <pubDate>Tue, 25 Apr 2017 13:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
