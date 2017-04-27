@@ -241,5 +241,16 @@
             <pubDate>Tue, 25 Apr 2017 13:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Confucianism Series, Episode 3: Dr. Bin Song (Continued)</title>
+            <description>A continuation from episode 2. Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </description>
+            <itunes:summary>A continuation from episode 2. Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </itunes:summary>
+            <itunes:subtitle>A continuation from episode 2. We discuss with Dr. Bin Song the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/confucianism-ep3.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/confucianism-ep3.mp3</guid>
+            <itunes:duration>0:32:19</itunes:duration>
+            <pubDate>Wed, 26 Apr 2017 12:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
