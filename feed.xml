@@ -252,5 +252,16 @@
             <pubDate>Wed, 26 Apr 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Chicago's History Episode 1: MLK and Civil Rights</title>
+            <description>Chicago has come up frequently in the national political conversation, mostly to serve as a negative example for everything that’s wrong with the country and society today. Matthias sat down with Reverend Julian Cook for the first episode of a series on Chicago’s history from 1966 to present day. This episode focuses on the social conditions that motivated MLK JR to take the Civil Rights movement to Chicago, the turbulence of the sixties, and Chicago as an economic hub amongst other things. We hope the conversations will provide some insight into the spirit of the city, its challenges, its aspirations and the historical dynamics that made the city what it is today.</description>
+            <itunes:summary>Chicago has come up frequently in the national political conversation, mostly to serve as a negative example for everything that’s wrong with the country and society today. Matthias sat down with Reverend Julian Cook for the first episode of a series on Chicago’s history from 1966 to present day. This episode focuses on the social conditions that motivated MLK JR to take the Civil Rights movement to Chicago, the turbulence of the sixties, and Chicago as an economic hub amongst other things. We hope the conversations will provide some insight into the spirit of the city, its challenges, its aspirations and the historical dynamics that made the city what it is today.</itunes:summary>
+            <itunes:subtitle>We speak with the HTC's Reverend Julian Cook on the social conditions that motivated MLK JR to take the Civil Rights movement to Chicago, the turbulence of the sixties, and Chicago as an economic hub amongst other things.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/chicago-ep1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/chicago-ep1.mp3</guid>
+            <itunes:duration>0:49:47</itunes:duration>
+            <pubDate>Mon, 1 May 2017 12:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
