@@ -263,5 +263,27 @@
             <pubDate>Mon, 1 May 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Turkey's Referendum in Context</title>
+            <description>Dr. Houchang Chehabi, professor of international relations at BU, was in Turkey during the failed coup attempt last summer. We wanted to sit down with him after April 16th's referendum, in which President Recep Tayyip Erdogan codified and consolidated dictatorial powers. We discuss Dr. Chehabi's experience in Turkey, the political trajectory of President Erdogan, and the international impact of this sea change in Turkish politics.</description>
+            <itunes:summary>Dr. Houchang Chehabi, professor of international relations at BU, was in Turkey during the failed coup attempt last summer. We wanted to sit down with him after April 16th's referendum, in which President Recep Tayyip Erdogan codified and consolidated dictatorial powers. We discuss Dr. Chehabi's experience in Turkey, the political trajectory of President Erdogan, and the international impact of this sea change in Turkish politics.</itunes:summary>
+            <itunes:subtitle>We speak with Dr. Houchang Chehabi, professor of international relations at BU, who was in Turkey during the failed coup attempt last summer.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/turkey.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/turkey.mp3</guid>
+            <itunes:duration>0:43:43</itunes:duration>
+            <pubDate>Sun, 07 May 2017 12:00:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>North Korea and Asia Pacific Security</title>
+            <description>Naomi Carolan, an undergraduate international relations student, has an extracurricular interest the North Korea. Matthias and Kobe sat down with her to discuss recent developments in the region and larger geopolitical issues as well. </description>
+            <itunes:summary>Naomi Carolan, an undergraduate international relations student, has an extracurricular interest the North Korea. Matthias and Kobe sat down with her to discuss recent developments in the region and larger geopolitical issues as well. </itunes:summary>
+            <itunes:subtitle>Matthias and Kobe speak with Naomi Carolan, an undergrad in international relations, to discuss recent developments in the region and larger geopolitical issues as well.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/north-korea.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/north-korea.mp3</guid>
+            <itunes:duration>1:05:11</itunes:duration>
+            <pubDate>Sun, 07 May 2017 13:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
