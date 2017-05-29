@@ -274,5 +274,16 @@
             <pubDate>Sun, 07 May 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>North Korea and Asia Pacific Security</title>
+            <description>Naomi Carolan, an undergraduate international relations student, has an extracurricular interest the North Korea. Matthias and Kobe sat down with her to discuss recent developments in the region and larger geopolitical issues as well. </description>
+            <itunes:summary>Naomi Carolan, an undergraduate international relations student, has an extracurricular interest the North Korea. Matthias and Kobe sat down with her to discuss recent developments in the region and larger geopolitical issues as well. </itunes:summary>
+            <itunes:subtitle>Matthias and Kobe speak with Naomi Carolan, an undergrad in international relations, to discuss recent developments in the region and larger geopolitical issues as well.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/north-korea.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/north-korea.mp3</guid>
+            <itunes:duration>1:05:11</itunes:duration>
+            <pubDate>Sun, 28 May 2017 13:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
