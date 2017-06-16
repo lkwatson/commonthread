@@ -285,5 +285,16 @@
             <pubDate>Sun, 28 May 2017 13:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Chicago's History Episode 2: The Political Machine</title>
+            <description>Continuing our conversation with Reverend Julian Cook, we discuss the political machine of Chicago, and the political history behind former major Harold Washington and activist Jesse Jackson.</description>
+            <itunes:summary>Continuing our conversation with Reverend Julian Cook, we discuss the political machine of Chicago, and the political history behind former major Harold Washington and activist Jesse Jackson.</itunes:summary>
+            <itunes:subtitle>Continuing our conversation with Reverend Julian Cook, we discuss the political machine of Chicago, and the political history behind former major Harold Washington and activist Jesse Jackson.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/chicago-ep2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/chicago-ep2.mp3</guid>
+            <itunes:duration>0:59:49</itunes:duration>
+            <pubDate>Thu, 15 June 2017 12:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
