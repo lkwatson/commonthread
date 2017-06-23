@@ -296,5 +296,16 @@
             <pubDate>Thu, 15 June 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Student Labor Action Project</title>
+            <description>Thread members Mac and Varsha talked with Marwa Sayed and Matt Thacker about their revitalizing of SLAP, the Student Labor Action Project, which serves as a solidarity movement to support the workers at Boston University. They discuss the different groups and unions they've worked with, and how they're seeking to grow the group from here.</description>
+            <itunes:summary>Thread members Mac and Varsha talked with Marwa Sayed and Matt Thacker about their revitalizing of SLAP, the Student Labor Action Project, which serves as a solidarity movement to support the workers at Boston University. They discuss the different groups and unions they've worked with, and how they're seeking to grow the group from here.</itunes:summary>
+            <itunes:subtitle>Thread members Mac and Varsha talked with Marwa Sayed and Matt Thacker about their revitalizing of SLAP, the Student Labor Action Project, which serves as a solidarity movement to support the workers at Boston University.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/slap.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/slap.mp3</guid>
+            <itunes:duration>0:19:51</itunes:duration>
+            <pubDate>Thu, 22 June 2017 12:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
