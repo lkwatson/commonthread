@@ -315,7 +315,7 @@
             <enclosure url="http://www.bucommonthread.com/audio/desocio.mp3" type="audio/mpeg" length="1" />
             <guid>https://www.bucommonthread.com/audio/desocio.mp3</guid>
             <itunes:duration>0:52:18</itunes:duration>
-            <pubDate>Fri, 1 Sept 2017 12:00:00 EST</pubDate>
+            <pubDate>Fri, 1 Sep 2017 12:00:00 EST</pubDate>
         </item>
         
         <item>
@@ -326,7 +326,7 @@
             <enclosure url="http://www.bucommonthread.com/audio/mazen.mp3" type="audio/mpeg" length="1" />
             <guid>https://www.bucommonthread.com/audio/mazen.mp3</guid>
             <itunes:duration>1:21:49</itunes:duration>
-            <pubDate>Sat, 2 Sept 2017 12:00:00 EST</pubDate>
+            <pubDate>Sat, 2 Sep 2017 12:00:00 EST</pubDate>
         </item>
         
     </channel>
