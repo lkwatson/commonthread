@@ -340,5 +340,18 @@
             <pubDate>Sun, 17 Sep 2017 12:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Experiential Education</title>
+            <description>After working with Professor Hutch Hutchinson during BU Orientation this summer, Kobe and Erin sat down with him to dig deep into experiential education. The Common Ground program, in which new students use GPS mapping to explore the city, visit historical sites, and get to know each other, is built upon these principles. Although one of the key components of experiential education is outdoor education, principles from summer camp, high ropes courses, backpacking trips, and outdoor teambuilding retreats are applicable in all settings, for all groups of people.
+            </description>
+            <itunes:summary>After working with Professor Hutch Hutchinson during BU Orientation this summer, Kobe and Erin sat down with him to dig deep into experiential education. The Common Ground program, in which new students use GPS mapping to explore the city, visit historical sites, and get to know each other, is built upon these principles. Although one of the key components of experiential education is outdoor education, principles from summer camp, high ropes courses, backpacking trips, and outdoor teambuilding retreats are applicable in all settings, for all groups of people.
+            </itunes:summary>
+            <itunes:subtitle>Kobe and Erin sat down with Professor Hutch Hutchingson to dig deep into experiential education and The Common Ground program.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/hutch1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/hutch1.mp3</guid>
+            <itunes:duration>0:32:35</itunes:duration>
+            <pubDate>Thu, 5 Oct 2017 12:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
