@@ -29,9 +29,36 @@ body {
 	color: black;
 }
 
+.div-linked { 
+  color: black;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.div-linked:hover,.div-linked:active,.div-linked:focus {
+  color: #bc2020;
+  text-decoration: none;
+}
+
 .navbar-top {
 	padding-bottom: 50px;
 }
+
+/* DC Series */
+
+.dc-episode-container h4 {
+  display: block;
+}
+
+.dc-arrow {
+  display: inline;
+/*   position: absolute; */
+  right: 100px;
+  top: 3px;
+  font-size: 1.5em;
+}
+
+/* ---------- */
 
 .intro {
 	padding-top: 40px;
