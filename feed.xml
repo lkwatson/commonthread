@@ -483,5 +483,18 @@
             <pubDate>Tue, 31 Oct 2017 9:00:00 EST</pubDate>
         </item>
         
+        <item>
+            <title>Current Affairs Part 1</title>
+            <description>Part one of Patrick's phone call with Current Affairs magazine editor in chief Nathan J Robinson. Here they discuss the recent state of the media and the problems and responsibilities Nathan and Current Affairs are trying to solve in the portrayal of current events.
+            </description>
+            <itunes:summary>Part one of Patrick's phone call with Current Affairs magazine editor in chief Nathan J Robinson. Here they discuss the recent state of the media and the problems and responsibilities Nathan and Current Affairs are trying to solve in the portrayal of current events.
+            </itunes:summary>
+            <itunes:subtitle>Part one of our conversation with Nathan J. Robinson, editor-in-chief at Current Affairs, on writing about current events.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/dc/nathan-robinson.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/dc/nathan-robinson.mp3</guid>
+            <itunes:duration>0:46:17</itunes:duration>
+            <pubDate>Tue, 28 Nov 2017 9:00:00 EST</pubDate>
+        </item>
+        
     </channel>
 </rss>
