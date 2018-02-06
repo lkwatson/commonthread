@@ -484,7 +484,7 @@
         </item>
         
         <item>
-            <title>Current Affairs Magazine Part 1</title>
+            <title>Current Affairs Magazine — Part 1</title>
             <description>Part one of Patrick's phone call with Current Affairs magazine editor in chief Nathan J Robinson. Here they discuss the recent state of the media and the problems and responsibilities Nathan and Current Affairs are trying to solve in the portrayal of current events.
             </description>
             <itunes:summary>Part one of Patrick's phone call with Current Affairs magazine editor in chief Nathan J Robinson. Here they discuss the recent state of the media and the problems and responsibilities Nathan and Current Affairs are trying to solve in the portrayal of current events.
@@ -494,6 +494,19 @@
             <guid>https://www.bucommonthread.com/audio/nathan-robinson.mp3</guid>
             <itunes:duration>0:46:17</itunes:duration>
             <pubDate>Tue, 28 Nov 2017 9:00:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>Spanish Regional Nationalisms and Political Strategies — Part 1</title>
+            <description>We sit down with Professor Oscar Martinez-Tapia of Nebrija University and IE [Instituto Empresa] in Madrid to discuss his work on political party formation in two of Spain's autonomous regions––Basque Country, also referred to as País Vasco in the episode, and Catalunya.  The discussion, geared towards American listeners, will trace the history of the nationalist sentiment and political party formation, then turn to the current strategies of nationalist politicians. It will look comparatively at the two cases. This is the first segment of our discussion with Professor Martinez, the latter of which will be published separately and look at populism in Spain more broadly. 
+            </description>
+            <itunes:summary>We sit down with Professor Oscar Martinez-Tapia of Nebrija University and IE [Instituto Empresa] in Madrid to discuss his work on political party formation in two of Spain's autonomous regions––Basque Country, also referred to as País Vasco in the episode, and Catalunya.  The discussion, geared towards American listeners, will trace the history of the nationalist sentiment and political party formation, then turn to the current strategies of nationalist politicians. It will look comparatively at the two cases. This is the first segment of our discussion with Professor Martinez, the latter of which will be published separately and look at populism in Spain more broadly. 
+            </itunes:summary>
+            <itunes:subtitle>A discussion with Prof. Martinez-Tapia investigating the history of political parties and methods in Basque Country and Catalunya.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/oscar-martinez-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/oscar-martinez-1.mp3</guid>
+            <itunes:duration>0:57:15</itunes:duration>
+            <pubDate>Tue, 6 Feb 2018 9:00:00 EST</pubDate>
         </item>
         
     </channel>
