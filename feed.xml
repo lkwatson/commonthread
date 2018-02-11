@@ -3,7 +3,7 @@
     <channel>
         <link>https://bucommonthread.com</link>
         <language>en-us</language>
-        <copyright>&#xA9;2016</copyright>
+        <copyright>&#xA9;2018</copyright>
         <webMaster>info@bucommonthread.com (Contact Us)</webMaster>
         <managingEditor>info@bucommonthread.com (Contact Us)</managingEditor>
         <image>
@@ -22,13 +22,13 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://bucommonthread.com/img/CT-SQ.png" />
         <atom:link href="http://bucommonthread.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Wed, 06 Apr 2016 00:00:00 EST</pubDate>
+        <pubDate>Sun, 11 Feb 2018 00:00:00 EST</pubDate>
         <title>The Common Thread Podcast</title>
         <itunes:author>The Howard Thurman Center</itunes:author>
         <description>The Common Thread Podcast is recorded and produced by undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</description>
         <itunes:summary>The Common Thread Podcast is recorded and produced by undergraduate students at Boston University. Our goal is to seek out and discuss topics important to our community.</itunes:summary>
         <itunes:subtitle>The Common Thread podcast is created by students at Boston University.</itunes:subtitle>
-        <lastBuildDate>Wed, 06 Apr 2016 00:00:00 EST</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2018 00:00:00 EST</lastBuildDate>
         
         <item>
             <title>Martin Luther King - His Last Years</title>
@@ -520,6 +520,19 @@
             <guid>https://www.bucommonthread.com/audio/oscar-martinez-2.mp3</guid>
             <itunes:duration>0:34:15</itunes:duration>
             <pubDate>Tue, 6 Feb 2018 10:00:00 EST</pubDate>
+        </item>
+
+        <item>
+            <title>Current Affairs Magazine — Part 2</title>
+            <description>Part 2 of Patrick's talk with Nathan J. Robinson, editor in chief of Current Affairs Magazine, a publication dedicated to staying true to "what actually affects people." Here, Nathan and Patrick discuss the shortcomings of other print media such as the New Yorker and the Economist, before venturing more broadly into the purposes and aims of writing (political or otherwise) in contemporary times.
+            </description>
+            <itunes:summary>Part 2 of Patrick's talk with Nathan J. Robinson, editor in chief of Current Affairs Magazine, a publication dedicated to staying true to "what actually affects people." Here, Nathan and Patrick discuss the shortcomings of other print media such as the New Yorker and the Economist, before venturing more broadly into the purposes and aims of writing (political or otherwise) in contemporary times.
+            </itunes:summary>
+            <itunes:subtitle>Patrick continues his phone call with Nathan J. Robinson of Current Affairs, discussing the pitfalls of contemporary media and the purposes and goals of writing more generally.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/nathan-robinson-2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/nathan-robinson-2.mp3</guid>
+            <itunes:duration>0:47:27</itunes:duration>
+            <pubDate>Sun, 11 Feb 2017 8:00:00 EST</pubDate>
         </item>
         
     </channel>
