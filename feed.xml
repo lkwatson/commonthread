@@ -534,6 +534,19 @@
             <itunes:duration>0:47:27</itunes:duration>
             <pubDate>Sun, 11 Feb 2017 8:00:00 EST</pubDate>
         </item>
+
+        <item>
+            <title>BU's 30 Under 30: Me Too, Part 1</title>
+            <description>“BU’s 30 Under 30” is a Boston University  bi-weekly podcast featuring a panel of the brightest Boston-area scholars under the age of thirty (30).  Panelists represent a wide array of disciplines and specialties, and offer insightful, relevant, and in-depth analysis of current events, politics, education and community life within a 30-minute timeframe. Presented by the Howard Thurman Center for Common Ground and co-hosted by Crystal Castro and Julian Cook. We apologize for the last minute of the conversation being cut off due to recording problems.
+            </description>
+            <itunes:summary>“BU’s 30 Under 30” is a Boston University  bi-weekly podcast featuring a panel of the brightest Boston-area scholars under the age of thirty (30).  Panelists represent a wide array of disciplines and specialties, and offer insightful, relevant, and in-depth analysis of current events, politics, education and community life within a 30-minute timeframe. Presented by the Howard Thurman Center for Common Ground and co-hosted by Crystal Castro and Julian Cook. We apologize for the last minute of the conversation being cut off due to recording problems.
+            </itunes:summary>
+            <itunes:subtitle>BU's 30 Under 30 Podcast begins with part 1 of a panel conversation the Me Too movement and healthy masculinity.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/me-too-part-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/me-too-part-1.mp3</guid>
+            <itunes:duration>0:30:30</itunes:duration>
+            <pubDate>Tue, 20 Feb 2017 8:00:00 EST</pubDate>
+        </item>
         
     </channel>
 </rss>
