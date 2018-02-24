@@ -532,7 +532,7 @@
             <enclosure url="http://www.bucommonthread.com/audio/nathan-robinson-2.mp3" type="audio/mpeg" length="1" />
             <guid>https://www.bucommonthread.com/audio/nathan-robinson-2.mp3</guid>
             <itunes:duration>0:47:27</itunes:duration>
-            <pubDate>Sun, 11 Feb 2017 8:00:00 EST</pubDate>
+            <pubDate>Sun, 11 Feb 2018 8:00:00 EST</pubDate>
         </item>
 
         <item>
@@ -545,7 +545,22 @@
             <enclosure url="http://www.bucommonthread.com/audio/me-too-part-1.mp3" type="audio/mpeg" length="1" />
             <guid>https://www.bucommonthread.com/audio/me-too-part-1.mp3</guid>
             <itunes:duration>0:30:30</itunes:duration>
-            <pubDate>Tue, 20 Feb 2017 8:00:00 EST</pubDate>
+            <pubDate>Tue, 20 Feb 2018 8:00:00 EST</pubDate>
+        </item>
+
+        <item>
+            <title>BU's 30 Under 30: Me Too, Part 1</title>
+            <description>Legal cannabis is soon to come to Massachusetts, but ensuring the launch goes well is key to its success. We sat down with Dr. Marion McNabb (SPH '17) who started the Cannabis Community Care and Research Network (C3RN) to advocate on Beacon Hill and in municipalities around the state. We discuss her work, social disparities, research licenses, small cannabis businesses. opioid treatment and more. 
+            Her organization is hosting an event at Roxbury Community College on Monday February 26th which she calls a "job skills fair for cannabis." It is that and more: there will be experts covering all aspects of the issue. To find out more information about the event and how to go email Joe Gilmore of Students for Sensible Drug Policy at joe[at]massreccouncil.com. We will follow up on the event when we speak with Mr. Gilmore in March. This event focuses on the social disparities aspect, and the April event (if you miss the first) will focus on opioid addiction treatment.
+            </description>
+            <itunes:summary>Legal cannabis is soon to come to Massachusetts, but ensuring the launch goes well is key to its success. We sat down with Dr. Marion McNabb (SPH '17) who started the Cannabis Community Care and Research Network (C3RN) to advocate on Beacon Hill and in municipalities around the state. We discuss her work, social disparities, research licenses, small cannabis businesses. opioid treatment and more. 
+            Her organization is hosting an event at Roxbury Community College on Monday February 26th which she calls a "job skills fair for cannabis." It is that and more: there will be experts covering all aspects of the issue. To find out more information about the event and how to go email Joe Gilmore of Students for Sensible Drug Policy at joe[at]massreccouncil.com. We will follow up on the event when we speak with Mr. Gilmore in March. This event focuses on the social disparities aspect, and the April event (if you miss the first) will focus on opioid addiction treatment.
+            </itunes:summary>
+            <itunes:subtitle>We talk with Dr. Marion McNabb (SPH '17) about her public benefit corp. Cannabis Community Care and Research Organization.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/cannabis-regulation.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/cannabis-regulation.mp3</guid>
+            <itunes:duration>0:55:55</itunes:duration>
+            <pubDate>Fri, 24 Feb 2018 8:00:00 EST</pubDate>
         </item>
         
     </channel>
