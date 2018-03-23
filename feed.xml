@@ -599,7 +599,30 @@
             <enclosure url="http://www.bucommonthread.com/audio/chakrabarti.mp3" type="audio/mpeg" length="1" />
             <guid>https://www.bucommonthread.com/audio/chakrabarti.mp3</guid>
             <itunes:duration>0:33:00</itunes:duration>
-            <pubDate>Tue, 06 Feb 2018 8:00:00 EST</pubDate>
+            <pubDate>Tue, 06 Mar 2018 8:00:00 EST</pubDate>
+        </item>
+
+        <item>
+        <title>A Veteran's Transformation: The Story of Steven J. Mandile</title>
+            <description>Steven J. Mandile is an Iraq war veteran who was injured at the age of 27. He came home with Traumatic Brain Injury, Post-Traumatic Stress Disorder and a spinal cord injury. He couldn't find help in the army medical system, and the Veterans Administration prescribed him 57 drugs over 5 years, including 9 opiates. He found his way out when he found cannabis, which allowed him to get off powerful opiates like fentanyl.
+
+            This is story of transformation. Listen to hear how Mr. Mandile became an activist, sleeping outside of the State House and rallying communities to support legal cannabis. He has founded Veterans Alternative Healing Inc. and is working to make sure veterans and communities of color have access to the legal market, and access to the business side of the industry as well.
+
+            Please see his organization's website: https://vahinc.org/services
+            And "like" their Facebook page: https://www.facebook.com/veteransah/
+            </description>
+            <itunes:summary>Steven J. Mandile is an Iraq war veteran who was injured at the age of 27. He came home with Traumatic Brain Injury, Post-Traumatic Stress Disorder and a spinal cord injury. He couldn't find help in the army medical system, and the Veterans Administration prescribed him 57 drugs over 5 years, including 9 opiates. He found his way out when he found cannabis, which allowed him to get off powerful opiates like fentanyl.
+
+            This is story of transformation. Listen to hear how Mr. Mandile became an activist, sleeping outside of the State House and rallying communities to support legal cannabis. He has founded Veterans Alternative Healing Inc. and is working to make sure veterans and communities of color have access to the legal market, and access to the business side of the industry as well.
+
+            Please see his organization's website: https://vahinc.org/services
+            And "like" their Facebook page: https://www.facebook.com/veteransah/
+            </itunes:summary>
+            <itunes:subtitle>Steven Mandile is an Iraq war veteran. After the VA put him on opiates, he found his way off, turning to cannabis and a life of activism.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/mandile.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/mandile.mp3</guid>
+            <itunes:duration>0:59:30</itunes:duration>
+            <pubDate>Fri, 23 Mar 2018 8:00:00 EST</pubDate>
         </item>
         
     </channel>
