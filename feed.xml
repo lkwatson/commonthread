@@ -624,6 +624,42 @@
             <itunes:duration>0:59:30</itunes:duration>
             <pubDate>Fri, 23 Mar 2018 8:00:00 EST</pubDate>
         </item>
+
+        <item>
+        <title>Brother Larry Part 1: Protestantization</title>
+            <description>Lawrence Whitney, better known on campus as Brother Larry, is the University Chaplain for Community Life. His academic work is in comparative theology, focusing on Christianity and Confucianism. 
+                In this episode we discuss Protestantization, a phenomenon that affects non-native traditions within democratic-capitalist societies. This episode takes us through the historical development of Protestantism and Protestantization. Part II in the series will address the case study of Confucianism––first, we will look at its historical development in China and East Asia, then how it might change in a Protestant context. 
+                We would like to extend our thanks to Brother Larry for generously spending time with us discussing his work.
+                If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
+            </description>
+            <itunes:summary>Lawrence Whitney, better known on campus as Brother Larry, is the University Chaplain for Community Life. His academic work is in comparative theology, focusing on Christianity and Confucianism. 
+                In this episode we discuss Protestantization, a phenomenon that affects non-native traditions within democratic-capitalist societies. This episode takes us through the historical development of Protestantism and Protestantization. Part II in the series will address the case study of Confucianism––first, we will look at its historical development in China and East Asia, then how it might change in a Protestant context. 
+                We would like to extend our thanks to Brother Larry for generously spending time with us discussing his work.
+                If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
+            </itunes:summary>
+            <itunes:subtitle>We sit down with Brother Larry of Marsh Chapel to discuss Protestantization, or how non-native religious traditions change within democratic-capitalist societies.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/brother-larry-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/brother-larry-1.mp3</guid>
+            <itunes:duration>0:29:30</itunes:duration>
+            <pubDate>Mon, 26 Mar 2018 8:00:00 EST</pubDate>
+        </item>
+
+        <item>
+        <title>Brother Larry Part 2: Protestantization of Confucianism</title>
+            <description>In the first part of our conversation with Brother Larry, University Chaplain for Community Life, we discussed the phenomenon of protestantization. Here we look at the case study of Confucianism that he addresses in his work. First, we take you through a crash course on the development of its ideas. Then, we talk about how protestantization may change the tradition. We also briefly address other religious traditions in the latter part of this discussion. 
+                We would like to thank Brother Larry for his time and insight.
+                If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
+            </description>
+            <itunes:summary>In the first part of our conversation with Brother Larry, University Chaplain for Community Life, we discussed the phenomenon of protestantization. Here we look at the case study of Confucianism that he addresses in his work. First, we take you through a crash course on the development of its ideas. Then, we talk about how protestantization may change the tradition. We also briefly address other religious traditions in the latter part of this discussion. 
+                We would like to thank Brother Larry for his time and insight.
+                If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
+            </itunes:summary>
+            <itunes:subtitle>The second part of our discussion with Brother Larry covers the development of Confucianism and how protestantization affects it.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/brother-larry-2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/brother-larry-2.mp3</guid>
+            <itunes:duration>0:49:30</itunes:duration>
+            <pubDate>Mon, 26 Mar 2018 10:00:00 EST</pubDate>
+        </item>
         
     </channel>
 </rss>
