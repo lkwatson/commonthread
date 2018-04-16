@@ -660,6 +660,21 @@
             <itunes:duration>0:49:30</itunes:duration>
             <pubDate>Mon, 26 Mar 2018 10:00:00 EST</pubDate>
         </item>
+
+        <item>
+        <title>Brother Larry Part 2: Protestantization of Confucianism</title>
+            <description>Lawrence O'Donnell is the host of MSNBC's The Last Word with Lawrence O'Donnell and the author of the new book Playing With Fire: The 1968 Election and the Transformation of American Politics. We speak with him about his book, the enduring relevance of that election and its effect upon modern day journalism. Mr. O'Donnell is also the author the 1983 book Deadly Force: The True Story of How a Badge Can Become a License to Kill, a writer and producer of the TV drama West Wing and former Capitol Hill aide to Senator Daniel Patrick Moynihan.
+                If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
+            </description>
+            <itunes:summary>Lawrence O'Donnell is the host of MSNBC's The Last Word with Lawrence O'Donnell and the author of the new book Playing With Fire: The 1968 Election and the Transformation of American Politics. We speak with him about his book, the enduring relevance of that election and its effect upon modern day journalism. Mr. O'Donnell is also the author the 1983 book Deadly Force: The True Story of How a Badge Can Become a License to Kill, a writer and producer of the TV drama West Wing and former Capitol Hill aide to Senator Daniel Patrick Moynihan.
+                If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
+            </itunes:summary>
+            <itunes:subtitle>We speak with MSNBC host Lawrence O'Donnell about his book Playing with Fire: The 1968 Election and the Transformation of American Politics.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/lawrence-odonnell.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/lawrence-odonnell.mp3</guid>
+            <itunes:duration>0:33:25</itunes:duration>
+            <pubDate>Sat, 14 Apr 2018 10:00:00 EST</pubDate>
+        </item>
         
     </channel>
 </rss>
