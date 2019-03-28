@@ -709,6 +709,19 @@
             <itunes:duration>1:08:00</itunes:duration>
             <pubDate>Wed, 4 Jul 2018 10:00:00 EST</pubDate>
         </item>
+
+        <item>
+        <title>Bob Hildreth on Student Debt</title>
+            <description>Over 44 million people in the US have student debt, according to the Federal Reserve. The class of 2017 owes, on average, nearly $30,000 in student loans, according to the Institute for College Access and Success. This kind of debt can be a huge weight on young college graduates. So what can you do when student loans are the "new normal"? Grace and Erica sat down with Bob Hildreth, founder of the Hildreth Institute, a new nonprofit fighting for debt-free college. He shared his knowledge about the student debt crisis and what could help to end it.
+            </description>
+            <itunes:summary>Over 44 million people in the US have student debt, according to the Federal Reserve. The class of 2017 owes, on average, nearly $30,000 in student loans, according to the Institute for College Access and Success. This kind of debt can be a huge weight on young college graduates. So what can you do when student loans are the "new normal"? Grace and Erica sat down with Bob Hildreth, founder of the Hildreth Institute, a new nonprofit fighting for debt-free college. He shared his knowledge about the student debt crisis and what could help to end it.
+            </itunes:summary>
+            <itunes:subtitle>Grace and Erica interviewed Bob Hildreth, founder of the Hildreth Institute which is a nonprofit fighting for debt-free college.</itunes:subtitle>
+            <enclosure url="http://www.bucommonthread.com/audio/hildreth.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.bucommonthread.com/audio/hildreth.mp3</guid>
+            <itunes:duration>0:26:13</itunes:duration>
+            <pubDate>Thu, 28 Mar 2018 10:00:00 EST</pubDate>
+        </item>
         
     </channel>
 </rss>
