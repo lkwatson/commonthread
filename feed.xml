@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
     <channel>
-        <link>https://bucommonthread.com</link>
+        <link>https://commonthreadpodcast.com</link>
         <language>en-us</language>
         <copyright>&#xA9;2019</copyright>
-        <webMaster>info@bucommonthread.com (Contact Us)</webMaster>
-        <managingEditor>info@bucommonthread.com (Contact Us)</managingEditor>
+        <webMaster>info@commonthreadpodcast.com (Contact Us)</webMaster>
+        <managingEditor>info@commonthreadpodcast.com (Contact Us)</managingEditor>
         <image>
-            <url>http://bucommonthread.com/img/CT-SQ.jpg</url>
+            <url>http://commonthreadpodcast.com/img/CT-SQ.jpg</url>
             <title>The Common Thread Podcast</title>
-            <link>https://bucommonthread.com</link>
+            <link>https://commonthreadpodcast.com</link>
         </image>
         <itunes:owner>
             <itunes:name>The Howard Thurman Center</itunes:name>
-            <itunes:email>info@bucommonthread.com</itunes:email>
+            <itunes:email>info@commonthreadpodcast.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Education">
             <itunes:category text="Higher Education"/>
         </itunes:category>
         <itunes:keywords>boston, university, common, thread, podcast, howard, thurman, center, students, student, college</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://bucommonthread.com/img/CT-SQ.png" />
-        <atom:link href="http://bucommonthread.com/feed.xml" rel="self" type="application/rss+xml" />
+        <itunes:image href="http://commonthreadpodcast.com/img/CT-SQ.png" />
+        <atom:link href="http://commonthreadpodcast.com/feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Sun, 11 Feb 2018 00:00:00 EST</pubDate>
         <title>The Common Thread Podcast</title>
         <itunes:author>The Howard Thurman Center</itunes:author>
@@ -35,8 +35,8 @@
             <description>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</description>
             <itunes:summary>Martin Luther King Jr. is tragically misrepresented as a simple idealist who offered moving oratory. In truth, he was much more than this. He was a revolutionary leader who evolved to face the challenges posed to his movement and offered radical proposals to solve the plight of the poor. Listen to us discuss the final years of his life based on extensive research and conversations with Reverend Julian Cook and Mr. Ryan Hendrickson.</itunes:summary>
             <itunes:subtitle>MLK is tragically misrepresented in history. Listen to hear about his last, radical years.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/MLK.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/MLK.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/MLK.mp3</guid>
             <itunes:duration>0:52:59</itunes:duration>
             <pubDate>Mon, 04 Apr 2016 00:00:00 EST</pubDate>
         </item>
@@ -46,8 +46,8 @@
             <description>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue. At the end of Spring semester 2016, we interviewed several students, as well as the director of Behavioral Medicine at BU, Dr. Carrie Landa. In this episode we interview recent Psychology grad from BU, Emme Parks. She discusses the group she founded, All for One, along with her experience with Behavioral Medicine at BU.</description>
             <itunes:summary>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue. At the end of Spring semester 2016, we interviewed several students, as well as the director of Behavioral Medicine at BU, Dr. Carrie Landa. In this episode we interview recent Psychology grad from BU, Emme Parks. She discusses the group she founded, All for One, along with her experience with Behavioral Medicine at BU.</itunes:summary>
             <itunes:subtitle>The mental health and wellbeing of students on college campuses across the nation is a increasingly prevalent and important issue.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/CommonThreadMentalHealthEp1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/CommonThreadMentalHealthEp1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/CommonThreadMentalHealthEp1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/CommonThreadMentalHealthEp1.mp3</guid>
             <itunes:duration>0:40:43</itunes:duration>
             <pubDate>Fri, 07 Oct 2016 00:00:00 EST</pubDate>
         </item>
@@ -57,8 +57,8 @@
             <description>In this episode we interview a senior psychology major from BU, Sravya Vajram. She discusses the group she founded, SpeakUP, an independent and student-run support group on campus. As well, we discuss the importance of being vulnerable and confiding in peers when dealing with mental health issues. Later in the episode, we also discuss student's general experience with Behavioral Medicine, and ways that communication between students and SHS can improve.</description>
             <itunes:summary>In this episode we interview a senior psychology major from BU, Sravya Vajram. She discusses the group she founded, SpeakUP, an independent and student-run support group on campus. As well, we discuss the importance of being vulnerable and confiding in peers when dealing with mental health issues. Later in the episode, we also discuss student's general experience with Behavioral Medicine, and ways that communication between students and SHS can improve.</itunes:summary>
             <itunes:subtitle>We interview Sarvya Vajram, a student who has founded a independently run support group on campus</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/CommonThreadMentalHealthEp2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/CommonThreadMentalHealthEp2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/CommonThreadMentalHealthEp2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/CommonThreadMentalHealthEp2.mp3</guid>
             <itunes:duration>0:38:06</itunes:duration>
             <pubDate>Wed, 12 Oct 2016 00:00:00 EST</pubDate>
         </item>
@@ -69,8 +69,8 @@
             <description>In this episode we interview director of Behavioral Medicine at SHS, Dr. Carrie Landa. We talk about some of the functions of Behavioral Medicine, including how appointments are prioritized, the purpose of BU's services, and the programs SHS is creating to educate the student body and faculty about mental health awareness and communication.</description>
             <itunes:summary>In this episode we interview director of Behavioral Medicine at SHS, Dr. Carrie Landa. We talk about some of the functions of Behavioral Medicine, including how appointments are prioritized, the purpose of BU's services, and the programs SHS is creating to educate the student body and faculty about mental health awareness and communication.</itunes:summary>
             <itunes:subtitle>We interview Dr. Carrie Landa, director of Behavioral Medicine.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/CommonThreadMentalHealthEp3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/CommonThreadMentalHealthEp3.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/CommonThreadMentalHealthEp3.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/CommonThreadMentalHealthEp3.mp3</guid>
             <itunes:duration>0:20:37</itunes:duration>
             <pubDate>Wed, 13 Oct 2016 00:00:00 EST</pubDate>
         </item>
@@ -81,8 +81,8 @@
             <description>In this episode of The Common Thread Podcast, we interview BU student Smaranda Tolosano who visited the refugee camp in Calais, France a few days before its shutdown.</description>
             <itunes:summary>In this episode of The Common Thread Podcast, we interview BU student Smaranda Tolosano who visited the refugee camp in Calais, France a few days before its shutdown.</itunes:summary>
             <itunes:subtitle>We interview BU student Smaranda Tolosano who visited the refugee camp in Calais, France</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/calais.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/calais.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/calais.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/calais.mp3</guid>
             <itunes:duration>1:07:18</itunes:duration>
             <pubDate>Thu, 10 Nov 2016 00:00:00 EST</pubDate>
         </item>
@@ -92,8 +92,8 @@
             <description>Listen to us talk with Marwa Sayed, a student activist who launched a petition late last year to make BU a 'sanctuary campus'. We define actions cities and campuses can take, discuss the potential limitations and delve into the way activism is changing by the day as events unfold. If you want to zoom in on the grassroots in the Trump Era, spin this Thread.</description>
             <itunes:summary>Listen to us talk with Marwa Sayed, a student activist who launched a petition late last year to make BU a 'sanctuary campus'. We define actions cities and campuses can take, discuss the potential limitations and delve into the way activism is changing by the day as events unfold. If you want to zoom in on the grassroots in the Trump Era, spin this Thread.</itunes:summary>
             <itunes:subtitle>Listen to us talk with Marwa Sayed, a student activist who launched a petition late last year to make BU a 'sanctuary campus'.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/sanctuarycampus.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/sanctuarycampus.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/sanctuarycampus.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/sanctuarycampus.mp3</guid>
             <itunes:duration>0:32:38</itunes:duration>
             <pubDate>Fri, 3 Feb 2017 00:00:00 EST</pubDate>
         </item>
@@ -103,8 +103,8 @@
             <description>HTC Ambassador Yash Kothari sat down with Noam Chomsky because he had the guts to simply email him and ask for an appointment. This initiative fascinated us, so we asked Yash to talk. Yash, who will graduate in May, has a totally unique philosophy on independent learning in college. Spin this Thread if you want to hear about how you might also become an ambitious learner too.</description>
             <itunes:summary>HTC Ambassador Yash Kothari sat down with Noam Chomsky because he had the guts to simply email him and ask for an appointment. This initiative fascinated us, so we asked Yash to talk. Yash, who will graduate in May, has a totally unique philosophy on independent learning in college. Spin this Thread if you want to hear about how you might also become an ambitious learner too.</itunes:summary>
             <itunes:subtitle>We talk with Yash Kothari, who has a unique philosophy on independent learning, and who also got to sit down with Noam Chomsky.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/yash.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/yash.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/yash.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/yash.mp3</guid>
             <itunes:duration>0:42:20</itunes:duration>
             <pubDate>Mon, 13 Feb 2017 00:00:00 EST</pubDate>
         </item>
@@ -114,8 +114,8 @@
             <description>The Republican Party is now in power across our federal government, holds the majority of governorships and of state legislative bodies. Yet, in the wake of President Trump's rise and all the coverage of his personality and character, it can seem like we're still an election season rather than a season of governance. We wanted to drive to the root of substantive issues so we spoke with Corey Pray, President of BU College Republicans, and Anastasia Koartes, Secretary of BU College Republicans. This discussion covers a lot of ground, from the diversity of conservative thought, Republican methods of appealing to millennials, foreign policy, and other prevalent issues.</description>
             <itunes:summary>The Republican Party is now in power across our federal government, holds the majority of governorships and of state legislative bodies. Yet, in the wake of President Trump's rise and all the coverage of his personality and character, it can seem like we're still an election season rather than a season of governance. We wanted to drive to the root of substantive issues so we spoke with Corey Pray, President of BU College Republicans, and Anastasia Koartes, Secretary of BU College Republicans. This discussion covers a lot of ground, from the diversity of conservative thought, Republican methods of appealing to millennials, foreign policy, and other prevalent issues.</itunes:summary>
             <itunes:subtitle>We speak with the president and secretary of BU College Republicans. This discussion covers a lot of ground, from the diversity of conservative though, Republican methods of appealing to millennials, foreign policy, and other prevalent issues.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/bucr.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/bucr.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/bucr.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/bucr.mp3</guid>
             <itunes:duration>0:42:20</itunes:duration>
             <pubDate>Mon, 20 Feb 2017 00:00:00 EST</pubDate>
         </item>
@@ -125,8 +125,8 @@
             <description>This episode features a conversation with recent Boston University graduate Maya Gazhal, who shares his experiences and perspectives about spending a summer in Palestine as an activist, teacher and IT guy. Given how controversial and charged the topic of the Israeli-Palestinian conflict is, we approached this episode with the intent of understanding why one of our peers would go to Palestine and what he observed while he was there. We hope you find it interesting, as we did. The views articulated in this interview are those of the speaker and are not representative of the opinions of the Common Thread Podcast and Howard Thurman Center.</description>
             <itunes:summary>This episode features a conversation with recent Boston University graduate Maya Gazhal, who shares his experiences and perspectives about spending a summer in Palestine as an activist, teacher and IT guy. Given how controversial and charged the topic of the Israeli-Palestinian conflict is, we approached this episode with the intent of understanding why one of our peers would go to Palestine and what he observed while he was there. We hope you find it interesting, as we did. The views articulated in this interview are those of the speaker and are not representative of the opinions of the Common Thread Podcast and Howard Thurman Center.</itunes:summary>
             <itunes:subtitle>This episode features a conversation with recent Boston University graduate Maya Gazhal, who shares his experiences and perspectives about spending a summer in Palestine as an activist, teacher and IT guy.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/palestine.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/palestine.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/palestine.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/palestine.mp3</guid>
             <itunes:duration>1:24:13</itunes:duration>
             <pubDate>Wed, 22 Feb 2017 00:00:00 EST</pubDate>
         </item>
@@ -136,8 +136,8 @@
             <description>Four Thread team members, Lucas, Varsha, Elliot and Kobe, sit down with Annalise Lamberty, a BU filmmaker, and Elliot Masters, an actor from Emerson, to break down this year's best picture nominees.</description>
             <itunes:summary>Four Thread team members, Lucas, Varsha, Elliot and Kobe, sit down with Annalise Lamberty, a BU filmmaker, and Elliot Masters, an actor from Emerson, to break down this year's best picture nominees.</itunes:summary>
             <itunes:subtitle>The team along with 2 guests break down this year's best picture nominees and more.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/oscars.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/oscars.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/oscars.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/oscars.mp3</guid>
             <itunes:duration>0:51:55</itunes:duration>
             <pubDate>Sat, 25 Feb 2017 00:00:00 EST</pubDate>
         </item>
@@ -147,8 +147,8 @@
             <description>Recently, the Climate Leadership Council brought together some prominent establishment conservatives––including several former cabinet officials––to release a novel plan to combat climate change: "The Conservative Case for Carbon Dividends". This prompted us to sit down with James Baldwin, a lecturer in the Earth and Environment Department at Boston University. We discuss his ongoing research, explore the range of possible outcomes for the species and analyze this plan in its political context.</description>
             <itunes:summary>Recently, the Climate Leadership Council brought together some prominent establishment conservatives––including several former cabinet officials––to release a novel plan to combat climate change: "The Conservative Case for Carbon Dividends". This prompted us to sit down with James Baldwin, a lecturer in the Earth and Environment Department at Boston University. We discuss his ongoing research, explore the range of possible outcomes for the species and analyze this plan in its political context.</itunes:summary>
             <itunes:subtitle>We sit down with James Baldwin, a lecturer in the Earth and Environment Department, and talk about climate action and our future.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/climate-action.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/climate-action.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/climate-action.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/climate-action.mp3</guid>
             <itunes:duration>0:40:12</itunes:duration>
             <pubDate>Mon, 27 Feb 2017 00:00:00 EST</pubDate>
         </item>
@@ -158,8 +158,8 @@
             <description>On this episode we sit down with two Parisians to discuss the import of the upcoming French presidential election. Spin this Thread to learn about the candidates, the issues, and why this election is a major test for the post-WWII international order.</description>
             <itunes:summary>On this episode we sit down with two Parisians to discuss the import of the upcoming French presidential election. Spin this Thread to learn about the candidates, the issues, and why this election is a major test for the post-WWII international order..</itunes:summary>
             <itunes:subtitle>On this episode we sit down with two Parisians to discuss the import of the upcoming French presidential election.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/french-election.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/french-election.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/french-election.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/french-election.mp3</guid>
             <itunes:duration>0:48:54</itunes:duration>
             <pubDate>Thu, 23 Mar 2017 00:00:00 EST</pubDate>
         </item>
@@ -169,8 +169,8 @@
             <description>When considering major issues like housing affordability and gentrification, it is the challenge of the city planner to recognize the fine line between furthering economic development and preserving historically cultural and ethnic communities and institutions. On a trip to New York, fellow team member Varsha got to sit down with Purnima Kapur, the Executive Director of City Planning of New York City, where they discussed the city's current policy addressing these issues as well as other resolutions in resiliency and sustainability. Spin this thread to hear insights from the woman behind the development of one of the world's biggest cities. </description>
             <itunes:summary>When considering major issues like housing affordability and gentrification, it is the challenge of the city planner to recognize the fine line between furthering economic development and preserving historically cultural and ethnic communities and institutions. On a trip to New York, fellow team member Varsha got to sit down with Purnima Kapur, the Executive Director of City Planning of New York City, where they discussed the city's current policy addressing these issues as well as other resolutions in resiliency and sustainability. Spin this thread to hear insights from the woman behind the development of one of the world's biggest cities. </itunes:summary>
             <itunes:subtitle>Team member Varsha talks with the Executive Director of City Planning of New York City.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/nyc-city-planning.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/nyc-city-planning.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/nyc-city-planning.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/nyc-city-planning.mp3</guid>
             <itunes:duration>0:48:03</itunes:duration>
             <pubDate>Tue, 28 Mar 2017 00:00:00 EST</pubDate>
         </item>
@@ -180,8 +180,8 @@
             <description>Today, on the 50th anniversary of MLK’s historic “Beyond Vietnam” address, The Common Thread podcast is re-releasing a segment of our very first episode. On April 4th of last year, we looked at the radicalism of MLK between 1965 and 1968. This segment concerns the context of the "Beyond Vietnam" speech, its content and its fallout. If you’d like to listen to more of our MLK content beyond this segment, you can scroll down in our archive to the very first episode. The segment you hear here is from 22 to 35 minutes in.</description>
             <itunes:summary>Today, on the 50th anniversary of MLK’s historic “Beyond Vietnam” address, The Common Thread podcast is re-releasing a segment of our very first episode. On April 4th of last year, we looked at the radicalism of MLK between 1965 and 1968. This segment concerns the context of the "Beyond Vietnam" speech, its content and its fallout. If you’d like to listen to more of our MLK content beyond this segment, you can scroll down in our archive to the very first episode. The segment you hear here is from 22 to 35 minutes in.</itunes:summary>
             <itunes:subtitle>Today, on the 50th anniversary of MLK’s historic Beyond Vietnam address, and The Common Thread podcast is re-releasing a segment of our very first episode on MLK.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/beyond-vietnam.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/beyond-vietnam.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/beyond-vietnam.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/beyond-vietnam.mp3</guid>
             <itunes:duration>0:16:48</itunes:duration>
             <pubDate>Tue, 04 Apr 2017 01:00:00 EST</pubDate>
         </item>
@@ -191,30 +191,30 @@
             <description>Team members Kobe and Evan sit down with literary scholar and BU professor Sir Christopher Ricks to discuss the works of Bob Dylan. They ask Sir Christopher Ricks about topics in his book, Dylan's Visions of Sin, and go into deep analysis of several of Dylan's songs. Bob Dylan is known for his socially-charged music of the 1960s, and notably was awarded the Nobel Prize in Literature in 2016.</description>
             <itunes:summary>Team members Kobe and Evan sit down with literary scholar and BU professor Sir Christopher Ricks to discuss the works of Bob Dylan. They ask Sir Christopher Ricks about topics in his book, Dylan's Visions of Sin, and go into deep analysis of several of Dylan's songs. Bob Dylan is known for his socially-charged music of the 1960s, and notably was awarded the Nobel Prize in Literature in 2016.</itunes:summary>
             <itunes:subtitle>Team members Kobe and Evan sit down with literary scholar and BU professor Sir Christopher Ricks to discuss the works of Bob Dylan.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/bob-dylan.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/bob-dylan.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/bob-dylan.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/bob-dylan.mp3</guid>
             <itunes:duration>1:10:49</itunes:duration>
             <pubDate>Tue, 04 Apr 2017 12:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>One BU Gala</title>
-            <description>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th. You can find a description and a link to the event on our website, bucommonthread.com</description>
-            <itunes:summary>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th. You can find a description and a link to the event on our website, bucommonthread.com </itunes:summary>
+            <description>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th. You can find a description and a link to the event on our website, commonthreadpodcast.com</description>
+            <itunes:summary>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th. You can find a description and a link to the event on our website, commonthreadpodcast.com </itunes:summary>
             <itunes:subtitle>We sat down with Luis Castro and Sophie Brandigham to discuss the One BU gala held this Saturday April 8th.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/one-bu-gala.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/one-bu-gala.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/one-bu-gala.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/one-bu-gala.mp3</guid>
             <itunes:duration>0:30:58</itunes:duration>
             <pubDate>Thu, 06 Apr 2017 12:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>Edge of Activism</title>
-            <description>In a spontaneous moment, Mac, Matthias and Kobe find themselves in a room with some of today's biggest activists and ask them one important question. Then the activists take the mic. Spin this Thread to unwind their wisdom. Learn more about the activists you hear on our website, bucommonthread.com/edge-of-activism</description>
-            <itunes:summary>In a spontaneous moment, Mac, Matthias and Kobe find themselves in a room with some of today's biggest activists and ask them one important question. Then the activists take the mic. Spin this Thread to unwind their wisdom. Learn more about the activists you hear on our website, bucommonthread.com/edge-of-activism </itunes:summary>
+            <description>In a spontaneous moment, Mac, Matthias and Kobe find themselves in a room with some of today's biggest activists and ask them one important question. Then the activists take the mic. Spin this Thread to unwind their wisdom. Learn more about the activists you hear on our website, commonthreadpodcast.com/edge-of-activism</description>
+            <itunes:summary>In a spontaneous moment, Mac, Matthias and Kobe find themselves in a room with some of today's biggest activists and ask them one important question. Then the activists take the mic. Spin this Thread to unwind their wisdom. Learn more about the activists you hear on our website, commonthreadpodcast.com/edge-of-activism </itunes:summary>
             <itunes:subtitle>Mac, Matthias and Kobe find themselves in a room with some of today's biggest activists and ask them one important question.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/edge-of-activism.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/edge-of-activism.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/edge-of-activism.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/edge-of-activism.mp3</guid>
             <itunes:duration>0:33:06</itunes:duration>
             <pubDate>Fri, 14 Apr 2017 12:00:00 EST</pubDate>
         </item>
@@ -224,8 +224,8 @@
             <description>Boston Confucianism, which argues for the applicability of Confucian values globally, rather than just in East Asia, is an intellectual movement pioneered by Dr. Robert Neville (former Dean of Marsh Chapel and the School of Theology; currently a professor of Philosophy, Religion and Theology at BU). Here, we discuss the inception of Boston Confucianism and the many potential points of contact between Confucianism and the west.</description>
             <itunes:summary>Boston Confucianism, which argues for the applicability of Confucian values globally, rather than just in East Asia, is an intellectual movement pioneered by Dr. Robert Neville (former Dean of Marsh Chapel and the School of Theology; currently a professor of Philosophy, Religion and Theology at BU). Here, we discuss the inception of Boston Confucianism and the many potential points of contact between Confucianism and the west.</itunes:summary>
             <itunes:subtitle>Boston Confucianism, which argues for the applicability of Confucian values globally, rather than just in East Asia, is an intellectual movement pioneered by Dr. Robert Neville: we discuss it here.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/confucianism-ep1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/confucianism-ep1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/confucianism-ep1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/confucianism-ep1.mp3</guid>
             <itunes:duration>0:51:33</itunes:duration>
             <pubDate>Tue, 25 Apr 2017 12:00:00 EST</pubDate>
         </item>
@@ -235,8 +235,8 @@
             <description>Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </description>
             <itunes:summary>Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </itunes:summary>
             <itunes:subtitle>We discuss with Dr. Bin Song the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/confucianism-ep2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/confucianism-ep2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/confucianism-ep2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/confucianism-ep2.mp3</guid>
             <itunes:duration>0:33:06</itunes:duration>
             <pubDate>Tue, 25 Apr 2017 13:00:00 EST</pubDate>
         </item>
@@ -246,8 +246,8 @@
             <description>A continuation from episode 2. Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </description>
             <itunes:summary>A continuation from episode 2. Dr. Bin Song is pursuing a second PhD in religious studies. He has a deep knowledge of the Confucian tradition, which we draw on for Parts 2 and 3 of this series. Here, we discuss the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education. </itunes:summary>
             <itunes:subtitle>A continuation from episode 2. We discuss with Dr. Bin Song the compatibility of Confucian values with Western societies, Confucianism in 20th C. China, and what Confucianism has to say about education.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/confucianism-ep3.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/confucianism-ep3.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/confucianism-ep3.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/confucianism-ep3.mp3</guid>
             <itunes:duration>0:32:19</itunes:duration>
             <pubDate>Wed, 26 Apr 2017 12:00:00 EST</pubDate>
         </item>
@@ -257,8 +257,8 @@
             <description>Chicago has come up frequently in the national political conversation, mostly to serve as a negative example for everything that’s wrong with the country and society today. Matthias sat down with Reverend Julian Cook for the first episode of a series on Chicago’s history from 1966 to present day. This episode focuses on the social conditions that motivated MLK JR to take the Civil Rights movement to Chicago, the turbulence of the sixties, and Chicago as an economic hub amongst other things. We hope the conversations will provide some insight into the spirit of the city, its challenges, its aspirations and the historical dynamics that made the city what it is today.</description>
             <itunes:summary>Chicago has come up frequently in the national political conversation, mostly to serve as a negative example for everything that’s wrong with the country and society today. Matthias sat down with Reverend Julian Cook for the first episode of a series on Chicago’s history from 1966 to present day. This episode focuses on the social conditions that motivated MLK JR to take the Civil Rights movement to Chicago, the turbulence of the sixties, and Chicago as an economic hub amongst other things. We hope the conversations will provide some insight into the spirit of the city, its challenges, its aspirations and the historical dynamics that made the city what it is today.</itunes:summary>
             <itunes:subtitle>We speak with the HTC's Reverend Julian Cook on the social conditions that motivated MLK JR to take the Civil Rights movement to Chicago, the turbulence of the sixties, and Chicago as an economic hub amongst other things.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/chicago-ep1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/chicago-ep1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/chicago-ep1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/chicago-ep1.mp3</guid>
             <itunes:duration>0:49:47</itunes:duration>
             <pubDate>Mon, 1 May 2017 12:00:00 EST</pubDate>
         </item>
@@ -268,8 +268,8 @@
             <description>Dr. Houchang Chehabi, professor of international relations at BU, was in Turkey during the failed coup attempt last summer. We wanted to sit down with him after April 16th's referendum, in which President Recep Tayyip Erdogan codified and consolidated dictatorial powers. We discuss Dr. Chehabi's experience in Turkey, the political trajectory of President Erdogan, and the international impact of this sea change in Turkish politics.</description>
             <itunes:summary>Dr. Houchang Chehabi, professor of international relations at BU, was in Turkey during the failed coup attempt last summer. We wanted to sit down with him after April 16th's referendum, in which President Recep Tayyip Erdogan codified and consolidated dictatorial powers. We discuss Dr. Chehabi's experience in Turkey, the political trajectory of President Erdogan, and the international impact of this sea change in Turkish politics.</itunes:summary>
             <itunes:subtitle>We speak with Dr. Houchang Chehabi, professor of international relations at BU, who was in Turkey during the failed coup attempt last summer.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/turkey.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/turkey.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/turkey.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/turkey.mp3</guid>
             <itunes:duration>0:43:43</itunes:duration>
             <pubDate>Sun, 07 May 2017 12:00:00 EST</pubDate>
         </item>
@@ -279,8 +279,8 @@
             <description>Naomi Carolan, an undergraduate international relations student, has an extracurricular interest the North Korea. Matthias and Kobe sat down with her to discuss recent developments in the region and larger geopolitical issues as well. </description>
             <itunes:summary>Naomi Carolan, an undergraduate international relations student, has an extracurricular interest the North Korea. Matthias and Kobe sat down with her to discuss recent developments in the region and larger geopolitical issues as well. </itunes:summary>
             <itunes:subtitle>Matthias and Kobe speak with Naomi Carolan, an undergrad in international relations, to discuss recent developments in the region and larger geopolitical issues as well.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/north-korea.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/north-korea.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/north-korea.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/north-korea.mp3</guid>
             <itunes:duration>1:05:11</itunes:duration>
             <pubDate>Sun, 28 May 2017 13:00:00 EST</pubDate>
         </item>
@@ -290,8 +290,8 @@
             <description>Continuing our conversation with Reverend Julian Cook, we discuss the political machine of Chicago, and the political history behind former major Harold Washington and activist Jesse Jackson.</description>
             <itunes:summary>Continuing our conversation with Reverend Julian Cook, we discuss the political machine of Chicago, and the political history behind former major Harold Washington and activist Jesse Jackson.</itunes:summary>
             <itunes:subtitle>Continuing our conversation with Reverend Julian Cook, we discuss the political machine of Chicago, and the political history behind former major Harold Washington and activist Jesse Jackson.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/chicago-ep2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/chicago-ep2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/chicago-ep2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/chicago-ep2.mp3</guid>
             <itunes:duration>0:59:49</itunes:duration>
             <pubDate>Thu, 15 June 2017 12:00:00 EST</pubDate>
         </item>
@@ -301,8 +301,8 @@
             <description>Thread members Mac and Varsha talked with Marwa Sayed and Matt Thacker about their revitalizing of SLAP, the Student Labor Action Project, which serves as a solidarity movement to support the workers at Boston University. They discuss the different groups and unions they've worked with, and how they're seeking to grow the group from here.</description>
             <itunes:summary>Thread members Mac and Varsha talked with Marwa Sayed and Matt Thacker about their revitalizing of SLAP, the Student Labor Action Project, which serves as a solidarity movement to support the workers at Boston University. They discuss the different groups and unions they've worked with, and how they're seeking to grow the group from here.</itunes:summary>
             <itunes:subtitle>Thread members Mac and Varsha talked with Marwa Sayed and Matt Thacker about their revitalizing of SLAP, the Student Labor Action Project, which serves as a solidarity movement to support the workers at Boston University.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/slap.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/slap.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/slap.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/slap.mp3</guid>
             <itunes:duration>0:19:51</itunes:duration>
             <pubDate>Thu, 22 June 2017 12:00:00 EST</pubDate>
         </item>
@@ -312,8 +312,8 @@
             <description>Erin and Kobe spoke with Mike DeSocio, COM '17, who published a photojournalism piece on LGBTQ youth homelessness for his Senior Keystone Project at BU. His story traces the path of Liniste, a trans youth in Boston who has had her share of encounters with both shelters and advocacy groups.</description>
             <itunes:summary>Erin and Kobe spoke with Mike DeSocio, COM '17, who published a photojournalism piece on LGBTQ youth homelessness for his Senior Keystone Project at BU. His story traces the path of Liniste, a trans youth in Boston who has had her share of encounters with both shelters and advocacy groups.</itunes:summary>
             <itunes:subtitle>Erin and Kobe spoke with Mike DeSocio, COM '17, who published a photojournalism piece on LGBTQ youth homelessness for his Senior Keystone Project at BU.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/desocio.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/desocio.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/desocio.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/desocio.mp3</guid>
             <itunes:duration>0:52:18</itunes:duration>
             <pubDate>Fri, 1 Sep 2017 12:00:00 EST</pubDate>
         </item>
@@ -323,8 +323,8 @@
             <description>Nadeem Mazen is a two term city councilor in Cambridge, as well as an entrepreneur and community organizer. In this conversation we discuss issues of education and housing in Cambridge, along with civic engagement, money in politics and more. Due to a self-imposed term limit, he plans to leave the council after this term, but will continue working on community issues through JetPac Inc. a non-profit aimed to train and equip Muslims and people from other underrepresented communities to run for office.</description>
             <itunes:summary>Nadeem Mazen is a two term city councilor in Cambridge, as well as an entrepreneur and community organizer. In this conversation we discuss issues of education and housing in Cambridge, along with civic engagement, money in politics and more. Due to a self-imposed term limit, he plans to leave the council after this term, but will continue working on community issues through JetPac Inc. a non-profit aimed to train and equip Muslims and people from other underrepresented communities to run for office.</itunes:summary>
             <itunes:subtitle>Nadeem Mazen is a two term city councilor in Cambridge, as well as an entrepreneur and community organizer. In this conversation we discuss issues of education and housing in Cambridge, along with civic engagement, money in politics and more.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/mazen.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/mazen.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/mazen.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/mazen.mp3</guid>
             <itunes:duration>1:21:49</itunes:duration>
             <pubDate>Sat, 2 Sep 2017 12:00:00 EST</pubDate>
         </item>
@@ -334,8 +334,8 @@
             <description>Team members Erin and Patrick met Diane Gallagher, the Nursing Archivist at the Howard Gotlieb Archival Research Center. We learned that not only did she serve in the Peace Corps in Cape Verde when she was 53, but won the Lillian Carter Award from President Jimmy Carter and has met with Michelle Obama. Her book, Lure of Service (now on the shelves of the Howard Thurman Center), is an entertaining memoir of her time in Cape Verde - the projects she worked on, who she loved, and what she learned from the Cape Verdeans. A New York City native, Diane now is a host mother for Harvard's international student program and continues to be involved with the Peace Corps. We sat down and chatted about her beliefs on whining, grit, learning about other cultures, caring for people, humility, and what BU means when it says we need to be global citizens. We hope you enjoy her insight and jaw-dropping stories as much as we did.​</description>
             <itunes:summary>Team members Erin and Patrick met Diane Gallagher, the Nursing Archivist at the Howard Gotlieb Archival Research Center. We learned that not only did she serve in the Peace Corps in Cape Verde when she was 53, but won the Lillian Carter Award from President Jimmy Carter and has met with Michelle Obama. Her book, Lure of Service (now on the shelves of the Howard Thurman Center), is an entertaining memoir of her time in Cape Verde - the projects she worked on, who she loved, and what she learned from the Cape Verdeans. A New York City native, Diane now is a host mother for Harvard's international student program and continues to be involved with the Peace Corps. We sat down and chatted about her beliefs on whining, grit, learning about other cultures, caring for people, humility, and what BU means when it says we need to be global citizens. We hope you enjoy her insight and jaw-dropping stories as much as we did.​</itunes:summary>
             <itunes:subtitle>Team members Erin and Patrick met Diane Gallagher, the Nursing Archivist at the Howard Gotlieb Archival Research Center. We discover her philosophies through her time in the Peace Corps, being a part of Harvard's international student program, and more.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/diane-gallagher.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/diane-gallagher.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/diane-gallagher.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/diane-gallagher.mp3</guid>
             <itunes:duration>0:54:15</itunes:duration>
             <pubDate>Sun, 17 Sep 2017 12:00:00 EST</pubDate>
         </item>
@@ -347,8 +347,8 @@
             <itunes:summary>After working with Professor Hutch Hutchinson during BU Orientation this summer, Kobe and Erin sat down with him to dig deep into experiential education. The Common Ground program, in which new students use GPS mapping to explore the city, visit historical sites, and get to know each other, is built upon these principles. Although one of the key components of experiential education is outdoor education, principles from summer camp, high ropes courses, backpacking trips, and outdoor teambuilding retreats are applicable in all settings, for all groups of people.
             </itunes:summary>
             <itunes:subtitle>Kobe and Erin sat down with Professor Hutch Hutchingson to dig deep into experiential education and The Common Ground program.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/hutch1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/hutch1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/hutch1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/hutch1.mp3</guid>
             <itunes:duration>0:32:35</itunes:duration>
             <pubDate>Thu, 5 Oct 2017 12:00:00 EST</pubDate>
         </item>
@@ -360,8 +360,8 @@
             <itunes:summary>A continuation from part 1. Erin sat down with Professor Hutch Hutchinson to dig deeper into experiential education. They focus on the history of summer camp and its role in breaking apart barriers - just the beginning of all that Hutch can discuss on outdoor education. Be prepared to be bewildered by him.
             </itunes:summary>
             <itunes:subtitle>Erin sat down with Professor Hutch Hutchinson to dig deeper into experiential education. They focus on the history of summer camp and its role in breaking apart barriers.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/hutch2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/hutch2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/hutch2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/hutch2.mp3</guid>
             <itunes:duration>0:55:12</itunes:duration>
             <pubDate>Tue, 10 Oct 2017 12:00:00 EST</pubDate>
         </item>
@@ -373,8 +373,8 @@
             <itunes:summary>Mika’il Petin, formerly a professor of Cultural Studies at George Mason University, is now the associate Dean of Student Success at Illinois College. He has focused heavily on the representation of black muslim males in media in the post-9/11 era. We use part of his thesis work, concerning the film Five Fingers, to launch a discussion about representation and the interplay of of religious, racial and other factors in how we tell stories.
             </itunes:summary>
             <itunes:subtitle>Mika’il Petin is the associate Dean of Student Success at Illinois College. We use part of his thesis work, concerning the film Five Fingers, to launch a discussion about representation and the interplay of of religious, racial and other factors in how we tell stories.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/mika-il-petin.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/mika-il-petin.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/mika-il-petin.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/mika-il-petin.mp3</guid>
             <itunes:duration>1:14:02</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 1:00:00 EST</pubDate>
         </item>
@@ -386,8 +386,8 @@
             <itunes:summary>Aaron Frank, a Boston University alum, works on war games at RAND Corp., intelligence and other security issues. He has also worked at BAE Systems and Booz Allen Hamilton. We discuss his work in computational social science at RAND Corp, which involves various projects in creating predictions for policymakers in DC, particularly involving predictive models for conflicts and foreign affairs. He also discusses the interaction of intelligence agencies in DC, and the interesting dynamics that occur. 
             </itunes:summary>
             <itunes:subtitle>Aaron Frank, a Boston University alum, works on war games at RAND Corp., intelligence and other security issues. We discuss his work in computational social science at RAND Corp, which involves various projects in creating predictions for policymakers in DC.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/aaron-frank.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/aaron-frank.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/aaron-frank.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/aaron-frank.mp3</guid>
             <itunes:duration>1:05:39</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 2:00:00 EST</pubDate>
         </item>
@@ -399,21 +399,21 @@
             <itunes:summary>Ethan Glick is a Foreign Service Officer in the State Department. Currently he is the Deputy Director of the Office of Weapons of Mass Destruction Terrorism within the Bureau of International Security and Nonproliferation. He has served tours of duty in Brussels, Afghanistan,  Russia and Libya among other places. In this episode we discuss his career, his current work and the practice of diplomacy.
             </itunes:summary>
             <itunes:subtitle>Ethan Glick is a Foreign Service Officer in the State Department. Currently he is the Deputy Director of the Office of Weapons of Mass Destruction Terrorism within the Bureau of International Security and Nonproliferation. In this episode we discuss his career, his current work and the practice of diplomacy.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/ethan-glick.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/ethan-glick.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/ethan-glick.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/ethan-glick.mp3</guid>
             <itunes:duration>0:57:30</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 3:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>Adrian Atizado — Washington DC Series</title>
-            <description>See background information at www.bucommonthread.com/washington-dc. Adrian Atizado is a veteran of the Persian Gulf War. He has spent the last 17 years working for Disabled American Veterans, a veterans service organization (VSO) dedicated to advocating for veterans injured during their service. After recounting his path to his current position––Deputy National Legislative Director––he helps us deconstruct the history and role of VSOs in Washington DC, dating back to the First World War. He then helps us understand in more specific terms some of the legislative fixes he sees as necessary to making the system work better for our former service members. We also address Gulf War Illness, a difficult-to-diagnose condition observed in veterans of that war that is often difficult to claim benefits for.
+            <description>See background information at www.commonthreadpodcast.com/washington-dc. Adrian Atizado is a veteran of the Persian Gulf War. He has spent the last 17 years working for Disabled American Veterans, a veterans service organization (VSO) dedicated to advocating for veterans injured during their service. After recounting his path to his current position––Deputy National Legislative Director––he helps us deconstruct the history and role of VSOs in Washington DC, dating back to the First World War. He then helps us understand in more specific terms some of the legislative fixes he sees as necessary to making the system work better for our former service members. We also address Gulf War Illness, a difficult-to-diagnose condition observed in veterans of that war that is often difficult to claim benefits for.
             </description>
-            <itunes:summary>See background information at www.bucommonthread.com/washington-dc. Adrian Atizado is a veteran of the Persian Gulf War. He has spent the last 17 years working for Disabled American Veterans, a veterans service organization (VSO) dedicated to advocating for veterans injured during their service. After recounting his path to his current position––Deputy National Legislative Director––he helps us deconstruct the history and role of VSOs in Washington DC, dating back to the First World War. He then helps us understand in more specific terms some of the legislative fixes he sees as necessary to making the system work better for our former service members. We also address Gulf War Illness, a difficult-to-diagnose condition observed in veterans of that war that is often difficult to claim benefits for.
+            <itunes:summary>See background information at www.commonthreadpodcast.com/washington-dc. Adrian Atizado is a veteran of the Persian Gulf War. He has spent the last 17 years working for Disabled American Veterans, a veterans service organization (VSO) dedicated to advocating for veterans injured during their service. After recounting his path to his current position––Deputy National Legislative Director––he helps us deconstruct the history and role of VSOs in Washington DC, dating back to the First World War. He then helps us understand in more specific terms some of the legislative fixes he sees as necessary to making the system work better for our former service members. We also address Gulf War Illness, a difficult-to-diagnose condition observed in veterans of that war that is often difficult to claim benefits for.
             </itunes:summary>
             <itunes:subtitle>Adrian Atizado has spent the last 17 years working for Disabled American Veterans. After recounting his path to his current position––Deputy National Legislative Director––he helps us deconstruct the history and role of VSOs in Washington DC, dating back to the First World War.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/adrian-atizado.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/adrian-atizado.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/adrian-atizado.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/adrian-atizado.mp3</guid>
             <itunes:duration>1:17:41</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 4:00:00 EST</pubDate>
         </item>
@@ -425,60 +425,60 @@
             <itunes:summary>Terri Tanielian, a Boston University alum, is a Senior Behavioral Scientist for the RAND Corporation. She focuses on the psychological effects of war, with a particular focus on the veterans of Operation Enduring Freedom in Afghanistan and Operation Iraqi Freedom. She co-directed a study for RAND called Invisible Wounds of War:  Psychological and Cognitive Injuries, Their Consequences and Services to Assist Recovery. In this episode we discuss her work in the context of  a really interesting anecdote about her evolving relationship to George W. Bush. She also takes the time to describe RAND Corp., its mission and how it operates.
             </itunes:summary>
             <itunes:subtitle>Terri Tanielian, a Boston University alum, is a Senior Behavioral Scientist for the RAND Corporation. In this episode we discuss her work in the context of  a really interesting anecdote about her evolving relationship to George W. Bush. She also takes the time to describe RAND Corp., its mission and how it operates.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/terri-tanielian.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/terri-tanielian.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/terri-tanielian.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/terri-tanielian.mp3</guid>
             <itunes:duration>0:36:58</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 5:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>Katie Zezima — Washington DC Series</title>
-            <description>See background information at www.bucommonthread.com/washington-dc. Katie Zezima, a Boston University alum, is a national correspondent for the Washington Post. In her career she has covered some of the most important stories in the country, including the Sandy Hook shooting, the abuses of Catholic Church in Boston, the capture of Whitey Bulger and more. She was on a fellowship at the University of Michigan looking into the opioid epidemic shortly before it garnered national media attention. In this episode we discuss her impressive career, the opioid epidemic, and the evolution of journalism in the 21st century.
+            <description>See background information at www.commonthreadpodcast.com/washington-dc. Katie Zezima, a Boston University alum, is a national correspondent for the Washington Post. In her career she has covered some of the most important stories in the country, including the Sandy Hook shooting, the abuses of Catholic Church in Boston, the capture of Whitey Bulger and more. She was on a fellowship at the University of Michigan looking into the opioid epidemic shortly before it garnered national media attention. In this episode we discuss her impressive career, the opioid epidemic, and the evolution of journalism in the 21st century.
             </description>
-            <itunes:summary>See background information at www.bucommonthread.com/washington-dc. Katie Zezima, a Boston University alum, is a national correspondent for the Washington Post. In her career she has covered some of the most important stories in the country, including the Sandy Hook shooting, the abuses of Catholic Church in Boston, the capture of Whitey Bulger and more. She was on a fellowship at the University of Michigan looking into the opioid epidemic shortly before it garnered national media attention. In this episode we discuss her impressive career, the opioid epidemic, and the evolution of journalism in the 21st century.
+            <itunes:summary>See background information at www.commonthreadpodcast.com/washington-dc. Katie Zezima, a Boston University alum, is a national correspondent for the Washington Post. In her career she has covered some of the most important stories in the country, including the Sandy Hook shooting, the abuses of Catholic Church in Boston, the capture of Whitey Bulger and more. She was on a fellowship at the University of Michigan looking into the opioid epidemic shortly before it garnered national media attention. In this episode we discuss her impressive career, the opioid epidemic, and the evolution of journalism in the 21st century.
             </itunes:summary>
             <itunes:subtitle>Katie Zezima, a Boston University alum, is a national correspondent for the Washington Post. In this episode we discuss her impressive career, the opioid epidemic, and the evolution of journalism in the 21st century.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/katie-zezima.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/katie-zezima.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/katie-zezima.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/katie-zezima.mp3</guid>
             <itunes:duration>0:55:10</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 6:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>Nora Bensahel — Washington DC Series</title>
-            <description>See background information at www.bucommonthread.com/washington-dc. Nora Bensahel is a Distinguished Scholar in Residence at American University. She is an expert in defense policy, military operations and force structure. She has also held positions at RAND Corp. and Center for New American Progress. She frequently co-writes a column with General David Barno, Strategic Outpost, for the War on the Rocks blog. In this episode we discuss the role of women in the military and the existing impediments to leadership roles. We go on to discuss veterans, the future of warfare and touch on cybersecurity.
+            <description>See background information at www.commonthreadpodcast.com/washington-dc. Nora Bensahel is a Distinguished Scholar in Residence at American University. She is an expert in defense policy, military operations and force structure. She has also held positions at RAND Corp. and Center for New American Progress. She frequently co-writes a column with General David Barno, Strategic Outpost, for the War on the Rocks blog. In this episode we discuss the role of women in the military and the existing impediments to leadership roles. We go on to discuss veterans, the future of warfare and touch on cybersecurity.
             </description>
-            <itunes:summary>See background information at www.bucommonthread.com/washington-dc. Nora Bensahel is a Distinguished Scholar in Residence at American University. She is an expert in defense policy, military operations and force structure. She has also held positions at RAND Corp. and Center for New American Progress. She frequently co-writes a column with General David Barno, Strategic Outpost, for the War on the Rocks blog. In this episode we discuss the role of women in the military and the existing impediments to leadership roles. We go on to discuss veterans, the future of warfare and touch on cybersecurity.
+            <itunes:summary>See background information at www.commonthreadpodcast.com/washington-dc. Nora Bensahel is a Distinguished Scholar in Residence at American University. She is an expert in defense policy, military operations and force structure. She has also held positions at RAND Corp. and Center for New American Progress. She frequently co-writes a column with General David Barno, Strategic Outpost, for the War on the Rocks blog. In this episode we discuss the role of women in the military and the existing impediments to leadership roles. We go on to discuss veterans, the future of warfare and touch on cybersecurity.
             </itunes:summary>
             <itunes:subtitle>Nora Bensahel is a Distinguished Scholar in Residence at American University. In this episode we discuss the role of women in the military and the existing impediments to leadership roles. We go on to discuss veterans, the future of warfare and touch on cybersecurity.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/nora-bensahel.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/nora-bensahel.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/nora-bensahel.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/nora-bensahel.mp3</guid>
             <itunes:duration>0:58:37</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 7:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>Luke Hartig — Washington DC Series</title>
-            <description>See background information at www.bucommonthread.com/washington-dc. Luke Hartig, an alum of Boston University, is the former Senior Director of Counterterrorism for the National Security Council during the Obama administration. He is currently the Executive of the Network Science Initiative at the National Journal and a fellow at New America. He writes for the Just Security blog, and is a term member at the Council on Foreign Relations. As a former Presidential Management Fellow, he has held positions in the Department of Defense, Office of Management and Budget, and elsewhere in Government. He also volunteered for the Peace Corp.
+            <description>See background information at www.commonthreadpodcast.com/washington-dc. Luke Hartig, an alum of Boston University, is the former Senior Director of Counterterrorism for the National Security Council during the Obama administration. He is currently the Executive of the Network Science Initiative at the National Journal and a fellow at New America. He writes for the Just Security blog, and is a term member at the Council on Foreign Relations. As a former Presidential Management Fellow, he has held positions in the Department of Defense, Office of Management and Budget, and elsewhere in Government. He also volunteered for the Peace Corp.
             </description>
-            <itunes:summary>See background information at www.bucommonthread.com/washington-dc. Luke Hartig, an alum of Boston University, is the former Senior Director of Counterterrorism for the National Security Council during the Obama administration. He is currently the Executive of the Network Science Initiative at the National Journal and a fellow at New America. He writes for the Just Security blog, and is a term member at the Council on Foreign Relations. As a former Presidential Management Fellow, he has held positions in the Department of Defense, Office of Management and Budget, and elsewhere in Government. He also volunteered for the Peace Corp.
+            <itunes:summary>See background information at www.commonthreadpodcast.com/washington-dc. Luke Hartig, an alum of Boston University, is the former Senior Director of Counterterrorism for the National Security Council during the Obama administration. He is currently the Executive of the Network Science Initiative at the National Journal and a fellow at New America. He writes for the Just Security blog, and is a term member at the Council on Foreign Relations. As a former Presidential Management Fellow, he has held positions in the Department of Defense, Office of Management and Budget, and elsewhere in Government. He also volunteered for the Peace Corp.
             </itunes:summary>
             <itunes:subtitle>Luke Hartig, an alum of Boston University, is the former Senior Director of Counterterrorism for the National Security Council during the Obama administration. We discuss with him both Washington DC as a whole, and his specialty, counterterrorism, focusing primarily on the most controversial element of the Obama counterterrorism legacy: drone strikes.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/luke-hartig.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/luke-hartig.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/luke-hartig.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/luke-hartig.mp3</guid>
             <itunes:duration>1:14:20</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 8:00:00 EST</pubDate>
         </item>
         
         <item>
             <title>Lata Nott — Washington DC Series</title>
-            <description>See background information at www.bucommonthread.com/washington-dc. Lata Nott is the Executive Director of the Newseum’s First Amendment Center. At the Newseum, a museum dedicated the history of media and free expression, her role is to educate the public about the the first amendment and related issues. She comes to the project with a background as a lawyer: she graduated Columbia Law School and worked at major New York law firms, as well as at Georgetown University Law Center.
+            <description>See background information at www.commonthreadpodcast.com/washington-dc. Lata Nott is the Executive Director of the Newseum’s First Amendment Center. At the Newseum, a museum dedicated the history of media and free expression, her role is to educate the public about the the first amendment and related issues. She comes to the project with a background as a lawyer: she graduated Columbia Law School and worked at major New York law firms, as well as at Georgetown University Law Center.
             </description>
-            <itunes:summary>See background information at www.bucommonthread.com/washington-dc. Lata Nott is the Executive Director of the Newseum’s First Amendment Center. At the Newseum, a museum dedicated the history of media and free expression, her role is to educate the public about the the first amendment and related issues. She comes to the project with a background as a lawyer: she graduated Columbia Law School and worked at major New York law firms, as well as at Georgetown University Law Center.
+            <itunes:summary>See background information at www.commonthreadpodcast.com/washington-dc. Lata Nott is the Executive Director of the Newseum’s First Amendment Center. At the Newseum, a museum dedicated the history of media and free expression, her role is to educate the public about the the first amendment and related issues. She comes to the project with a background as a lawyer: she graduated Columbia Law School and worked at major New York law firms, as well as at Georgetown University Law Center.
             </itunes:summary>
             <itunes:subtitle>Lata Nott is the Executive Director of the Newseum’s First Amendment Center. At the Newseum, a museum dedicated the history of media and free expression, her role is to educate the public about the the first amendment and related issues.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/dc/lata-nott.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/dc/lata-nott.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/dc/lata-nott.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/dc/lata-nott.mp3</guid>
             <itunes:duration>0:53:28</itunes:duration>
             <pubDate>Tue, 31 Oct 2017 9:00:00 EST</pubDate>
         </item>
@@ -490,8 +490,8 @@
             <itunes:summary>Part one of Patrick's phone call with Current Affairs magazine editor in chief Nathan J Robinson. Here they discuss the recent state of the media and the problems and responsibilities Nathan and Current Affairs are trying to solve in the portrayal of current events.
             </itunes:summary>
             <itunes:subtitle>Part one of our conversation with Nathan J. Robinson, editor-in-chief at Current Affairs, on writing about current events.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/nathan-robinson.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/nathan-robinson.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/nathan-robinson.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/nathan-robinson.mp3</guid>
             <itunes:duration>0:46:17</itunes:duration>
             <pubDate>Tue, 28 Nov 2017 9:00:00 EST</pubDate>
         </item>
@@ -503,8 +503,8 @@
             <itunes:summary>We sit down with Professor Oscar Martinez-Tapia of Nebrija University and IE [Instituto Empresa] in Madrid to discuss his work on political party formation in two of Spain's autonomous regions––Basque Country, also referred to as País Vasco in the episode, and Catalunya.  The discussion, geared towards American listeners, will trace the history of the nationalist sentiment and political party formation, then turn to the current strategies of nationalist politicians. It will look comparatively at the two cases. This is the first segment of our discussion with Professor Martinez, the latter of which will be published separately and look at populism in Spain more broadly. 
             </itunes:summary>
             <itunes:subtitle>A discussion with Prof. Martinez-Tapia investigating the history of political parties and methods in Basque Country and Catalunya.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/oscar-martinez-1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/oscar-martinez-1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/oscar-martinez-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/oscar-martinez-1.mp3</guid>
             <itunes:duration>0:57:15</itunes:duration>
             <pubDate>Tue, 6 Feb 2018 9:00:00 EST</pubDate>
         </item>
@@ -516,8 +516,8 @@
             <itunes:summary>This discussion is the second segment of an episode with Professor Oscar Martinez-Tapia Nebrija University and IE [Instituto Empresa] in Madrid. Here we move from regional nationalisms in Spain to a broader look at how populism is shaping western democracies, and how habits of life are changing with modernization. The episode drifts nicely from how the central Spanish government is dealing with Catalonia into a broad social commentary that sums up our time with professor Martinez-Tapia. Our thanks to him for his time.  
             </itunes:summary>
             <itunes:subtitle>We continue our discussion with Professor Oscar Martinez-Tapia broadening into how Spanish nationalism looks compared to western democracies.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/oscar-martinez-2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/oscar-martinez-2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/oscar-martinez-2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/oscar-martinez-2.mp3</guid>
             <itunes:duration>0:34:15</itunes:duration>
             <pubDate>Tue, 6 Feb 2018 10:00:00 EST</pubDate>
         </item>
@@ -529,8 +529,8 @@
             <itunes:summary>Part 2 of Patrick's talk with Nathan J. Robinson, editor in chief of Current Affairs Magazine, a publication dedicated to staying true to "what actually affects people." Here, Nathan and Patrick discuss the shortcomings of other print media such as the New Yorker and the Economist, before venturing more broadly into the purposes and aims of writing (political or otherwise) in contemporary times.
             </itunes:summary>
             <itunes:subtitle>Patrick continues his phone call with Nathan J. Robinson of Current Affairs, discussing the pitfalls of contemporary media and the purposes and goals of writing more generally.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/nathan-robinson-2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/nathan-robinson-2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/nathan-robinson-2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/nathan-robinson-2.mp3</guid>
             <itunes:duration>0:47:27</itunes:duration>
             <pubDate>Sun, 11 Feb 2018 8:00:00 EST</pubDate>
         </item>
@@ -542,8 +542,8 @@
             <itunes:summary>“BU’s 30 Under 30” is a Boston University  bi-weekly podcast featuring a panel of the brightest Boston-area scholars under the age of thirty (30).  Panelists represent a wide array of disciplines and specialties, and offer insightful, relevant, and in-depth analysis of current events, politics, education and community life within a 30-minute timeframe. Presented by the Howard Thurman Center for Common Ground and co-hosted by Crystal Castro and Julian Cook. We apologize for the last minute of the conversation being cut off due to recording problems.
             </itunes:summary>
             <itunes:subtitle>BU's 30 Under 30 Podcast begins with part 1 of a panel conversation the Me Too movement and healthy masculinity.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/me-too-part-1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/me-too-part-1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/me-too-part-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/me-too-part-1.mp3</guid>
             <itunes:duration>0:30:30</itunes:duration>
             <pubDate>Tue, 20 Feb 2018 8:00:00 EST</pubDate>
         </item>
@@ -557,8 +557,8 @@
             Her organization is hosting an event at Roxbury Community College on Monday February 26th which she calls a "job skills fair for cannabis." It is that and more: there will be experts covering all aspects of the issue. To find out more information about the event and how to go email Joe Gilmore of Students for Sensible Drug Policy at joe[at]massreccouncil.com. We will follow up on the event when we speak with Mr. Gilmore in March. This event focuses on the social disparities aspect, and the April event (if you miss the first) will focus on opioid addiction treatment.
             </itunes:summary>
             <itunes:subtitle>We talk with Dr. Marion McNabb (SPH '17) about her public benefit corp. Cannabis Community Care and Research Organization.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/cannabis-regulation.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/cannabis-regulation.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/cannabis-regulation.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/cannabis-regulation.mp3</guid>
             <itunes:duration>0:55:55</itunes:duration>
             <pubDate>Fri, 24 Feb 2018 8:00:00 EST</pubDate>
         </item>
@@ -570,8 +570,8 @@
             <itunes:summary>What do we get for our foreign aid money? Even the cynic can admit that some part of our foreign aid is given to ease human suffering, but we also must consider the power foreign aid projects over the recipient nation states and how it advances US national interests. We sat down with Professor Henry Pascoe, an american professor at IE (Instituto Empresa) in Madrid, to discuss his work on how foreign aid works as an informal enforcement mechanism for international counterterrorism treaties. We look at the logic of states entering these agreements and the strategies recipient and donor states employ to get what they want out of these interactions.
             </itunes:summary>
             <itunes:subtitle>We sit down with Professor Pascoe to discuss his work on foreign aid as an enforcement mechanism of international counterterrorism treaties.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/pascoe-1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/pascoe-1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/pascoe-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/pascoe-1.mp3</guid>
             <itunes:duration>0:35:15</itunes:duration>
             <pubDate>Sat, 25 Feb 2018 8:00:00 EST</pubDate>
         </item>
@@ -583,8 +583,8 @@
             <itunes:summary>“BU’s 30 Under 30” is a Boston University  bi-weekly podcast featuring a panel of the brightest Boston-area scholars under the age of thirty (30).  Panelists represent a wide array of disciplines and specialties, and offer insightful, relevant, and in-depth analysis of current events, politics, education and community life within a 30-minute timeframe. Presented by the Howard Thurman Center for Common Ground and co-hosted by Crystal Castro and Julian Cook. We apologize for the last minute of the conversation being cut off due to recording problems.
             </itunes:summary>
             <itunes:subtitle>BU's 30 Under 30 Podcast begins with part 2 of a panel conversation the Me Too movement and healthy masculinity.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/me-too-part-2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/me-too-part-2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/me-too-part-2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/me-too-part-2.mp3</guid>
             <itunes:duration>0:39:46</itunes:duration>
             <pubDate>Tue, 27 Feb 2018 8:00:00 EST</pubDate>
         </item>
@@ -596,8 +596,8 @@
             <itunes:summary>Radio Boston host Meghna Chakrabarti's career has coincided with one of the most fast-paced periods of change in the journalism industry. She began her career in the years where the post-9/11 world took shape, and has since seen field transform as it adapts to new media. On this episode, we talk with her about making decisions in the modern newsroom, about how she discovered her craft, and how one can begin to make sense of the information landscape. We would like to extend a thank you Ms. Chakrabarti for sharing her time with us. We encourage you to tune in to 90.9 or go to WBUR's website  to find Radio Boston and other programs.
             </itunes:summary>
             <itunes:subtitle>We sit down with host of the WBUR's program Radio Boston to discuss her career in journalism and the challenges of the modern newsroom.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/chakrabarti.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/chakrabarti.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/chakrabarti.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/chakrabarti.mp3</guid>
             <itunes:duration>0:33:00</itunes:duration>
             <pubDate>Tue, 06 Mar 2018 8:00:00 EST</pubDate>
         </item>
@@ -619,8 +619,8 @@
             And "like" their Facebook page: https://www.facebook.com/veteransah/
             </itunes:summary>
             <itunes:subtitle>Steven Mandile is an Iraq war veteran. After the VA put him on opiates, he found his way off, turning to cannabis and a life of activism.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/mandile.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/mandile.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/mandile.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/mandile.mp3</guid>
             <itunes:duration>0:59:30</itunes:duration>
             <pubDate>Fri, 23 Mar 2018 8:00:00 EST</pubDate>
         </item>
@@ -638,8 +638,8 @@
                 If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
             </itunes:summary>
             <itunes:subtitle>We sit down with Brother Larry of Marsh Chapel to discuss Protestantization, or how non-native religious traditions change within democratic-capitalist societies.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/brother-larry-1.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/brother-larry-1.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/brother-larry-1.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/brother-larry-1.mp3</guid>
             <itunes:duration>0:29:30</itunes:duration>
             <pubDate>Mon, 26 Mar 2018 8:00:00 EST</pubDate>
         </item>
@@ -655,8 +655,8 @@
                 If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
             </itunes:summary>
             <itunes:subtitle>The second part of our discussion with Brother Larry covers the development of Confucianism and how protestantization affects it.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/brother-larry-2.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/brother-larry-2.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/brother-larry-2.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/brother-larry-2.mp3</guid>
             <itunes:duration>0:49:30</itunes:duration>
             <pubDate>Mon, 26 Mar 2018 10:00:00 EST</pubDate>
         </item>
@@ -670,8 +670,8 @@
                 If you're interested in having conversations like these, please see http://www.bu.edu/thurman/programs/the-common-thread-podcast/ for more info on The Common Thread and how you can potentially join the team.
             </itunes:summary>
             <itunes:subtitle>We speak with MSNBC host Lawrence O'Donnell about his book Playing with Fire: The 1968 Election and the Transformation of American Politics.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/lawrence-odonnell.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/lawrence-odonnell.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/lawrence-odonnell.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/lawrence-odonnell.mp3</guid>
             <itunes:duration>0:33:25</itunes:duration>
             <pubDate>Sat, 14 Apr 2018 10:00:00 EST</pubDate>
         </item>
@@ -683,8 +683,8 @@
             <itunes:summary>William McKeen is the a professor of journalism and author of 7 books, one of which includes "Outlaw Journalist," a biography of gonzo journalism maverick Hunter S. Thompson. McKeen helps paint the broader picture of Hunter S. Thompson from his childhood, the beginning of his career, into his later years. Here he discusses not just who Hunter S. Thompson was to the world, how he contributed to literature and journalism, but who Hunter Thompson was to himself. We try to make sense of Thompson’s story, a rebel and lifelong political dissident, a walking contradiction—gun-toting, America-loving, yet fiercely, wildly on the side of liberal reform in the 60s and 70s. 
             </itunes:summary>
             <itunes:subtitle>Kobe and Patrick sit down with professor William McKeen, author of "Outlaw Journalist," a biography of gonzo journalism maverick Hunter S. Thompson. Here they try to place Thompson in the broader context of history and literature.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/mckeen.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/mckeen.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/mckeen.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/mckeen.mp3</guid>
             <itunes:duration>1:06:01</itunes:duration>
             <pubDate>Fri, 20 Apr 2018 10:00:00 EST</pubDate>
         </item>
@@ -704,8 +704,8 @@
             For a further exploration of Reinhold Niebuhr see our episode with Rev. Julian Cook. If you are interested in having conversations like these you can find out about applying at bu.edu/htc and finding Common Thread under the programs tab.
             </itunes:summary>
             <itunes:subtitle>Professor Emeritus Andrew Bacevich, a veteran of the Vietnam and Gulf wars, has spent his academic career writing about American imperialism. This episode traces his career and the evolution of his worldview, focusing on the impact of theologian Reinhold Niebuhr on his thinking.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/bacevich.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/bacevich.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/bacevich.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/bacevich.mp3</guid>
             <itunes:duration>1:08:00</itunes:duration>
             <pubDate>Wed, 4 Jul 2018 10:00:00 EST</pubDate>
         </item>
@@ -717,8 +717,8 @@
             <itunes:summary>Over 44 million people in the US have student debt, according to the Federal Reserve. The class of 2017 owes, on average, nearly $30,000 in student loans, according to the Institute for College Access and Success. This kind of debt can be a huge weight on young college graduates. So what can you do when student loans are the "new normal"? Grace and Erica sat down with Bob Hildreth, founder of the Hildreth Institute, a new nonprofit fighting for debt-free college. He shared his knowledge about the student debt crisis and what could help to end it.
             </itunes:summary>
             <itunes:subtitle>Grace and Erica interviewed Bob Hildreth, founder of the Hildreth Institute which is a nonprofit fighting for debt-free college.</itunes:subtitle>
-            <enclosure url="http://www.bucommonthread.com/audio/hildreth.mp3" type="audio/mpeg" length="1" />
-            <guid>https://www.bucommonthread.com/audio/hildreth.mp3</guid>
+            <enclosure url="http://www.commonthreadpodcast.com/audio/hildreth.mp3" type="audio/mpeg" length="1" />
+            <guid>https://www.commonthreadpodcast.com/audio/hildreth.mp3</guid>
             <itunes:duration>0:26:13</itunes:duration>
             <pubDate>Thu, 28 Mar 2019 10:00:00 EST</pubDate>
         </item>

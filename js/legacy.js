@@ -130,17 +130,17 @@
 
 						function onClickFBShare() {
 							if(urlSetTime) {
-								var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+								var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://commonthreadpodcast.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
 							}else{
-								var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+								var fb = window.open("https://www.facebook.com/sharer/sharer.php?u=https://commonthreadpodcast.com/mlk", "pop", "width=600, height=600, scrollbars=no");
 							}
 						}
 						
 						function onClickTwShare() {
 							if(urlSetTime) {
-								var tw = window.open("https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
+								var tw = window.open("https://twitter.com/intent/tweet?url=commonthreadpodcast.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20commonthreadpodcast.com/mlk?time="+urlSetTime, "pop", "width=600, height=600, scrollbars=no");
 							}else{
-								var tw = window.open("https://twitter.com/intent/tweet?url=bucommonthread.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20bucommonthread.com/mlk", "pop", "width=600, height=600, scrollbars=no");
+								var tw = window.open("https://twitter.com/intent/tweet?url=commonthreadpodcast.com/mlk&text=The%20Common%20Thread%20Podcast%20on%20MLK.%20commonthreadpodcast.com/mlk", "pop", "width=600, height=600, scrollbars=no");
 							}
 						}
 						
@@ -151,9 +151,9 @@
 							linkCopy.style.display = "inline";
 							
 							if(urlSetTime) {
-								linkBox.value = 'bucommonthread.com/mlk?time='+urlSetTime;
+								linkBox.value = 'commonthreadpodcast.com/mlk?time='+urlSetTime;
 							}else{
-								linkBox.value = 'bucommonthread.com/mlk';
+								linkBox.value = 'commonthreadpodcast.com/mlk';
 							}
 						}
 						
