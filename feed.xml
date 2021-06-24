@@ -4,8 +4,8 @@
         <link>https://commonthreadpodcast.com</link>
         <language>en-us</language>
         <copyright>&#xA9;2019</copyright>
-        <webMaster>info@commonthreadpodcast.com (Contact Us)</webMaster>
-        <managingEditor>info@commonthreadpodcast.com (Contact Us)</managingEditor>
+        <webMaster>contact@commonthreadpodcast.com (Contact Us)</webMaster>
+        <managingEditor>contact@commonthreadpodcast.com (Contact Us)</managingEditor>
         <image>
             <url>http://commonthreadpodcast.com/img/CT-SQ.jpg</url>
             <title>The Common Thread Podcast</title>
@@ -13,7 +13,7 @@
         </image>
         <itunes:owner>
             <itunes:name>The Howard Thurman Center</itunes:name>
-            <itunes:email>info@commonthreadpodcast.com</itunes:email>
+            <itunes:email>contact@commonthreadpodcast.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Education">
             <itunes:category text="Higher Education"/>
